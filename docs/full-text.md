@@ -146,6 +146,23 @@ You should now have:
 - a draft Theory of Change
 - a clearer understanding of your role, assumptions, and key constraints
 
+## Further reading (optional)
+
+- Meadows, D. (2008) — *Thinking in Systems: A Primer*  
+  → Supports: systems thinking and understanding training as part of a broader system  
+  → Why it matters: provides practical tools for mapping actors, constraints, and system dynamics in training design  
+  → Source: https://donellameadows.org/archives/thinking-in-systems-a-primer/
+
+- Weiss, C. (1995) — *Nothing as Practical as Good Theory: Exploring Theory-Based Evaluation for Comprehensive Community Initiatives*  
+  → Supports: Theory of Change linking activities to outcomes and impact  
+  → Why it matters: explains how making assumptions explicit improves programme design and evaluation  
+  → Source: https://www.jstor.org/stable/10.2307/1349159
+
+- Freire, P. (1970) — *Pedagogy of the Oppressed*  
+  → Supports: positionality, power, and non-neutrality in training  
+  → Why it matters: highlights how power relations shape participation and knowledge in learning environments  
+  → Source: https://www.penguinrandomhouse.com/books/112874/pedagogy-of-the-oppressed-by-paulo-freire/
+
 # 2. Understanding Your Learners, Contexts, and Knowledge Systems
 
 | Learning Outcomes | Guiding Questions |
@@ -294,6 +311,23 @@ You should now have:
 - a basic needs assessment
 - a list of learner realities, barriers, strengths, and design implications
 
+## Further reading (optional)
+
+- Knowles, M., Holton, E., & Swanson, R. (2015) — *The Adult Learner*  
+  → Supports: understanding learner needs, prior knowledge, and self-directed learning  
+  → Why it matters: provides foundational principles for designing training aligned with adult learners’ realities  
+  → Source: https://www.routledge.com/The-Adult-Learner-The-Definitive-Classic-in-Adult-Education-and-Human/Knowles-Holton-Swanson/p/book/9781138209398
+
+- Kolb, D. (1984) — *Experiential Learning: Experience as the Source of Learning and Development*  
+  → Supports: connecting learning to lived experience and prior knowledge  
+  → Why it matters: explains how experience shapes learning and informs participatory training design  
+  → Source: https://www.pearson.com/en-us/subject-catalog/p/experiential-learning-experience-as-the-source-of-learning-and-development/P200000003495/9780132952613
+
+- Merriam, S., & Bierema, L. (2014) — *Adult Learning: Linking Theory and Practice*  
+  → Supports: needs assessment and contextual influences on learning  
+  → Why it matters: integrates theory and practice for designing context-sensitive and learner-centred training  
+  → Source: https://www.wiley.com/en-us/Adult+Learning%3A+Linking+Theory+and+Practice-p-9781118130575
+
 # 3. How People Learn: Cognitive, Social, and Contextual Perspectives
 
 | Learning Outcomes | Guiding Questions |
@@ -432,6 +466,26 @@ You should now have:
 - identified where overload may occur in your design
 - selected ways to build retrieval and reinforcement into learning
 - a clearer plan for how learners will actively engage with content
+
+<!-- File: Module 1 / Section 3: How People Learn: Cognitive, Social, and Contextual Perspectives -->
+
+## Further reading (optional)
+
+- Sweller, J. (1988) — *Cognitive Load During Problem Solving: Effects on Learning*  
+  → Supports: cognitive load and managing working memory in training design  
+  → Why it matters: explains why reducing overload improves learning effectiveness  
+  → Source: https://doi.org/10.1207/s15516709cog1202_4
+
+- Brown, P., Roediger, H., & McDaniel, M. (2014) — *Make It Stick: The Science of Successful Learning*  
+  → Supports: retrieval, spacing, and reinforcement strategies  
+  → Why it matters: synthesises evidence-based techniques for improving retention and transfer  
+  → Source: https://www.hup.harvard.edu/books/9780674729018
+
+- Bandura, A. (1977) — *Social Learning Theory*  
+  → Supports: social learning through observation and interaction  
+  → Why it matters: explains how collaboration and modelling support learning processes  
+  → Source: https://www.worldcat.org/title/social-learning-theory/oclc/3519836
+
 
 # 4. Defining Impact, Outcomes, and Alignment
 
@@ -577,6 +631,25 @@ You should now have:
 - initial indicators or evidence of success
 - a stronger link between outcomes, activities, and assessment
 
+<!-- File: Module 1 / Section 4: Defining Impact, Outcomes, and Alignment -->
+
+## Further reading (optional)
+
+- Biggs, J., & Tang, C. (2011) — *Teaching for Quality Learning at University*  
+  → Supports: constructive alignment between outcomes, activities, and assessment  
+  → Why it matters: provides a widely used framework for aligning teaching design decisions  
+  → Source: https://www.mheducation.com/highered/product/teaching-quality-learning-university-biggs/M9780335242757.html
+
+- Wiggins, G., & McTighe, J. (2005) — *Understanding by Design*  
+  → Supports: backward design (outcomes → evidence → activities)  
+  → Why it matters: offers a practical model for outcome-driven training design  
+  → Source: https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition-9781416600350
+
+- Kirkpatrick, D., & Kirkpatrick, J. (2006) — *Evaluating Training Programs: The Four Levels*  
+  → Supports: distinguishing outputs, outcomes, and impact  
+  → Why it matters: provides a widely used model for evaluating training effectiveness  
+  → Source: https://www.berrett-koehler.com/product/evaluating-training-programs/
+
 # 5. Co-Designing Under Constraints
 
 | Learning Outcomes | Guiding Questions |
@@ -714,6 +787,26 @@ You should now have:
 - identified who should shape your training
 - mapped the key constraints affecting design choices
 - made initial decisions about participation, trade-offs, and ethical engagement
+
+<!-- File: Module 1 / Section 5: Co-Designing Under Constraints -->
+
+## Further reading (optional)
+
+- Sanders, E., & Stappers, P. (2008) — *Co-creation and the New Landscapes of Design*  
+  → Supports: co-design principles and participant involvement  
+  → Why it matters: explains how involving stakeholders improves relevance and outcomes  
+  → Source: https://doi.org/10.1080/15710880701875068
+
+- IDEO.org (2015) — *The Field Guide to Human-Centered Design*  
+  → Supports: designing with participants under real-world constraints  
+  → Why it matters: provides practical methods for participatory design in constrained contexts  
+  → Source: https://www.designkit.org/resources/1
+
+- Chambers, R. (1994) — *Participatory Rural Appraisal (PRA): Challenges, Potentials and Paradigm*  
+  → Supports: ethical participation and avoiding extractive practices  
+  → Why it matters: offers Global South-informed approaches to inclusive and participatory design  
+  → Source: https://doi.org/10.1080/09614529410001679842
+
 
 # 6. Designing Learning Experiences for Participation and Co-Creation
 
@@ -867,6 +960,26 @@ You should now have:
 - a plan for participation and support
 - stronger alignment between your activities, outcomes, and context
 
+<!-- File: Module 1 / Section 6: Designing Learning Experiences for Participation and Co-Creation -->
+
+## Further reading (optional)
+
+- Prince, M. (2004) — *Does Active Learning Work? A Review of the Research*  
+  → Supports: active learning and participation in training design  
+  → Why it matters: provides evidence that active engagement improves learning outcomes  
+  → Source: https://doi.org/10.1002/j.2168-9830.2004.tb00809.x
+
+- Vygotsky, L. (1978) — *Mind in Society: The Development of Higher Psychological Processes*  
+  → Supports: scaffolding and social dimensions of learning  
+  → Why it matters: explains how guided support enables learners to progress toward independence  
+  → Source: https://www.hup.harvard.edu/books/9780674576292
+
+- Ambrose, S. et al. (2010) — *How Learning Works: Seven Research-Based Principles for Smart Teaching*  
+  → Supports: structuring activities and supporting effective participation  
+  → Why it matters: translates learning science into practical guidance for designing effective activities  
+  → Source: https://www.wiley.com/en-us/How+Learning+Works%3A+Seven+Research-Based+Principles+for+Smart+Teaching-p-9780470484104
+
+
 # 7. Practice, Feedback, and Iteration in Community Contexts
 
 | Learning Outcomes | Guiding Questions |
@@ -1009,6 +1122,23 @@ You should now have:
 - designed opportunities for meaningful practice
 - a plan for feedback during learning
 - at least one activity that includes revision or iteration
+
+## Further reading (optional)
+
+- Hattie, J., & Timperley, H. (2007) — *The Power of Feedback*  
+  → Supports: effective feedback that is specific, timely, and actionable  
+  → Why it matters: demonstrates how feedback significantly improves learning when it guides next steps  
+  → Source: https://doi.org/10.3102/003465430298487
+
+- Ericsson, K. A. (2006) — *The Influence of Experience and Deliberate Practice on the Development of Superior Expert Performance*  
+  → Supports: meaningful, outcome-aligned practice and skill development  
+  → Why it matters: explains how structured practice leads to improved performance and expertise  
+  → Source: https://doi.org/10.1017/CBO9780511816796.003
+
+- Nicol, D., & Macfarlane‐Dick, D. (2006) — *Formative Assessment and Self‐Regulated Learning*  
+  → Supports: integrating feedback, self-regulation, and iterative improvement  
+  → Why it matters: provides principles for designing feedback that supports learner improvement  
+  → Source: https://doi.org/10.1080/03075070600572090
 
 # 8. Assessment and Evaluation for Learning and Impact
 
@@ -1158,9 +1288,22 @@ You should now have:
 - an initial plan for aligned assessment
 - a practical approach to collecting evidence of learning and impact
 
----
+## Further reading (optional)
 
----
+- Black, P., & Wiliam, D. (1998) — *Assessment and Classroom Learning*  
+  → Supports: formative assessment aligned with learning outcomes  
+  → Why it matters: shows how assessment for learning improves understanding and performance  
+  → Source: https://doi.org/10.1080/0969595980050102
+
+- Patton, M. Q. (2011) — *Developmental Evaluation: Applying Complexity Concepts to Enhance Innovation and Use*  
+  → Supports: evaluation focused on real-world impact and learning  
+  → Why it matters: introduces approaches for evaluating complex interventions like training in dynamic contexts  
+  → Source: https://us.sagepub.com/en-us/nam/developmental-evaluation/book232665
+
+- Guskey, T. (2000) — *Evaluating Professional Development*  
+  → Supports: distinguishing between different levels of training outcomes and impact  
+  → Why it matters: provides a structured approach to evaluating whether training leads to meaningful change  
+  → Source: https://www.corwin.com/books/evaluating-professional-development-6846
 
 # Bridging Section — From Training Design to Open Educational Resources (OER)
 
@@ -1300,194 +1443,187 @@ You should now have:
 - clarified at least one hidden assumption
 - started preparing your training materials for reuse beyond a single delivery
 
----
+## Further reading (optional)
 
----
+- Wiley, D. (2014) — *The Access Compromise and the 5th R*  
+  → Supports: reuse, adaptation, and practical value of openness in learning materials  
+  → Why it matters: explains how openness enables reuse and adaptation beyond one-time delivery  
+  → Source: https://opencontent.org/blog/archives/3221
 
-PART 2: Sharing, Adapting, and Sustaining Your OERs
+- Hilton, J. (2016) — *Open Educational Resources and College Textbook Choices: A Review of Research on Efficacy and Perceptions*  
+  → Supports: benefits of reuse and impact of OER on teaching and learning  
+  → Why it matters: provides evidence that OER improve access and can support effective learning outcomes  
+  → Source: https://doi.org/10.5944/openpraxis.8.1.246
+
+- Hodgkinson-Williams, C., & Trotter, H. (2018) — *A Social Justice Framework for Understanding Open Educational Resources and Practices in the Global South*  
+  → Supports: openness, context, and hidden assumptions affecting reuse  
+  → Why it matters: highlights how context and inequality shape the use and reuse of OER  
+  → Source: https://doi.org/10.19173/irrodl.v19i4.3749
+
+# Part 2: Sharing, Adapting, and Sustaining Your OERs
 
 # 1. Finding and Evaluating Existing OERs
 
 | Learning Outcomes | Guiding Questions |
 |------------------|------------------|
-| <ul><li>Find existing open educational resources relevant to your training</li><li>Evaluate resources for relevance, quality, and usability</li><li>Decide when to reuse, adapt, or create materials</li><li>Assess whether a resource can be adapted for your context</li><li>Integrate selected resources into your training design</li></ul> | <ul><li>What already exists that could support your training?</li><li>How do you decide if a resource is good enough to use?</li><li>Can this resource be adapted to your context?</li><li>When is it better to reuse, adapt, or create?</li><li>How will you integrate external resources into your design?</li></ul> |
+| <ul><li>Identify relevant existing Open Educational Resources (OERs)</li><li>Evaluate OERs for quality, relevance, and usability</li><li>Decide when to reuse, adapt, or create resources</li><li>Apply criteria for selecting appropriate materials</li></ul> | <ul><li>Where can you find relevant existing resources?</li><li>How do you evaluate whether a resource is useful?</li><li>When is it better to reuse, adapt, or create?</li><li>How do you ensure selected materials fit your context?</li></ul> |
 
 ## Why this matters
 
-In the bridging section, you considered how to design your own materials so they can be reused and adapted.
+In the previous section, you began preparing your materials for reuse and identified opportunities to adapt or improve them.
 
-This section focuses on the next step:
+This section focuses on how to find and evaluate existing Open Educational Resources so that you can make informed decisions about what to reuse, adapt, or create.
 
-- How do you find and evaluate materials that already exist so you do not start from scratch unnecessarily?
-
-In many cases:
-
-- similar materials already exist
-- others have solved related problems
-- useful explanations, examples, or activities are available
-
-If you do not check what exists, you may duplicate effort or spend time where it is not needed.
+Not all useful training materials need to be created from scratch. Many already exist. The challenge is identifying what is useful, appropriate, and worth the effort to adapt.
 
 !!! quote "This section helps you move from..."
-    *“I need to create something for this.”*  
+    *“What should I create?”*  
     to:  
-    *“What already exists, and where should I invest my effort?”*
+    *“What already exists, and what is the most effective use of my time?”*
 
 ## Core concepts
 
-!!! abstract "Finding and evaluating existing resources"
-    Good reuse starts with practical searching and fast, focused evaluation. You are not looking for perfect resources. You are looking for resources that are relevant, usable, and adaptable enough to support your outcomes.
+!!! abstract "Reuse, adapt, and create decisions"
+    Effective use of OER involves deciding when to reuse materials as they are, adapt them for your context, or create new materials when necessary.
 
-**Reuse, adapt, create in practice**  
-The model introduced in the bridging section now becomes a search strategy. You may reuse something as it is, adapt part of it, or decide it is quicker and better to create your own material.
+**Finding resources**  
+OERs can be found through repositories, institutional platforms, community networks, and general web search.
 
-**Evaluation criteria**  
-When you review a resource, check:
-
-- alignment with outcomes
-- fit with your learners and context
-- clarity and quality
-- likely effort to adapt
-
-**Adaptability**  
-A useful resource is not always directly usable. It needs to be editable, adaptable, and practical within your constraints.
+**Evaluating quality and fit**  
+A resource may be high quality but not suitable for your context. Fit depends on relevance, clarity, accessibility, and adaptability.
 
 ## Practical guidance
 
-### Step 1 — Start by checking what exists
+### Step 1 — Search for relevant resources
 
-Before creating new materials, ask:
+Look for:
 
-- Has someone already created something similar?
-- Can I use part of an existing resource?
+- materials aligned with your topic and outcomes
+- resources used by similar audiences
+- content from trusted institutions or communities
 
-Even partial matches can reduce effort.
-
-### Step 2 — Search strategically
-
-Focus on a few reliable sources such as:
-
-- university repositories
-- open course collections
-- training toolkits
-- NGO or community resources
-- trusted colleagues or partner networks
-
-### Step 3 — Evaluate quickly
-
-Ask:
-
-- Does this support my outcomes?
-- Will my learners understand and relate to it?
-- Is it clear and accurate?
-- Is it likely to be worth adapting?
-
-### Step 4 — Assess adaptability
+### Step 2 — Evaluate usefulness
 
 Check:
 
-- Can you edit it?
-- Can you replace examples?
-- Can it work with your available tools, time, and conditions?
+- relevance to your outcomes
+- clarity of explanation and instructions
+- usability without the original creator present
+- accessibility and format
 
-### Step 5 — Decide whether to reuse, adapt, or create
+### Step 3 — Decide what to do
 
-A practical rule is:
+For each resource, decide:
 
-- reuse when it already fits
-- adapt when it is close and worth improving
-- create when adaptation would take more effort than a focused new resource
+- reuse as is
+- adapt for your context
+- do not use
 
-### Step 6 — Integrate into your design
+### Step 4 — Consider localisation
 
-Do not treat reused materials as separate add-ons. Make sure they fit your outcomes, sequence, activities, and facilitation approach.
+Ask:
+
+- Does this reflect your learners’ context?
+- What needs to change?
+- What examples should be replaced?
+
+### Step 5 — Make a decision
+
+Balance:
+
+- effort required
+- quality of the resource
+- alignment with your needs
 
 ### Decision point
 
 > What choice does the reader need to make here?
 
-> Where will you invest your effort in developing materials?
+> Will you prioritise reuse, adaptation, or creation?
 
-- Create everything from scratch
-- Reuse or adapt where possible
-- Combine reuse, adaptation, and creation intentionally
-
-Your choice affects time, effort, and quality.
+- Mostly create new materials
+- Mix of reuse and creation
+- Prioritise reuse and adaptation
 
 ## Example
 
-- **Context:** A team is designing training on climate data analysis for early-career researchers.
-- **Decision:** Should they create new materials or use existing ones?
-- **Action:** They search for existing resources, select one activity that aligns with their outcomes, adapt the examples to local contexts, and integrate it into their own sequence. They create new material only where no suitable resource exists.
-- **Outcome:** They reduce development time, improve quality, and focus effort where it matters most.
+- **Context:** A facilitator is preparing a session on climate data tools.
+- **Decision:** Should they create new slides or use existing materials?
+- **Action:** They find an existing resource that aligns with their topic but includes unfamiliar examples. They decide to adapt the examples while keeping the core structure.
+- **Outcome:** They save time and improve relevance.
 
 ## In practice
 
-👉 Revisit [Template 6: Alignment Table](../activities/template_6_alignment.md)
+👉 Use [Template 10: OER Design Decisions](../activities/template_10_oer.md)
 
 Include:
 
-- **what to do:** Identify one or two places where you planned to create new materials and test whether reuse or adaptation is possible
-- **expected output:** A shortlist of opportunities for reuse or adaptation
-- **approximate time:** 10–15 minutes
-
-👉 Update [Template 7: Learning Activity Design](../activities/template_7_activity_design.md)
-
-Include:
-
-- **what to do:** Integrate a selected external resource into one activity
-- **expected output:** An updated activity design that uses reused or adapted material
-- **approximate time:** 15–20 minutes
+- **what to do:** Identify and evaluate one existing resource
+- **expected output:** A documented decision on reuse, adaptation, or creation
+- **approximate time:** 20–30 minutes
 
 ## Key takeaways
 
 !!! tip "Key takeaway"
-    Do not start from scratch by default. First check what already exists.
+    Reuse can save time, but only if the resource fits your needs.
 
 !!! tip "Key takeaway"
-    A resource does not need to be perfect. It needs to be useful and adaptable enough to support your outcomes.
+    Evaluation is essential before deciding to reuse or adapt.
 
 ## Before you move on
 
 You should now have:
 
-- identified existing resources relevant to your training
-- evaluated whether they are useful and adaptable
-- selected where to reuse, adapt, or create materials
+- identified at least one potential resource
+- evaluated its suitability
+- made an initial reuse, adapt, or create decision
+
+## Further reading (optional)
+
+- Atenas, J., & Havemann, L. (2014) — *Questions of Quality in Repositories of Open Educational Resources: A Literature Review*  
+  → Supports: evaluating quality, relevance, and usability of OERs  
+  → Why it matters: provides criteria and considerations for assessing whether OERs are fit for purpose  
+  → Source: https://doi.org/10.19173/irrodl.v15i2.2083
+
+- OECD (2007) — *Giving Knowledge for Free: The Emergence of Open Educational Resources*  
+  → Supports: finding and using OER repositories and resources  
+  → Why it matters: offers a foundational overview of OER ecosystems and access pathways  
+  → Source: https://www.oecd.org/education/ceri/givingknowledgeforfreetheemergenceofopeneducationalresources.htm
+
+- Commonwealth of Learning (2015) — *Guidelines for Open Educational Resources (OER) in Higher Education*  
+  → Supports: selecting and evaluating appropriate OER materials  
+  → Why it matters: provides practical guidance for identifying, assessing, and using OER effectively  
+  → Source: http://oasis.col.org/handle/11599/65
 
 # 2. What Makes Resources Open?
 
 | Learning Outcomes | Guiding Questions |
 |------------------|------------------|
-| <ul><li>Explain what makes a resource open in practical terms</li><li>Identify whether a resource can be reused, adapted, and shared</li><li>Interpret common open licenses at a practical level</li><li>Apply licensing considerations when selecting and using resources</li><li>Provide appropriate attribution when using others’ work</li></ul> | <ul><li>What does “open” actually allow you to do?</li><li>Can you reuse, adapt, and share this resource?</li><li>What does the license permit or restrict?</li><li>How do licensing choices affect your design decisions?</li><li>How will you give credit to original creators?</li></ul> |
+| <ul><li>Explain what makes a resource open</li><li>Understand key features of open licenses</li><li>Apply basic principles of attribution</li><li>Identify implications of different licensing choices</li></ul> | <ul><li>What makes a resource truly open?</li><li>What permissions do open licenses provide?</li><li>How do you attribute a resource correctly?</li><li>What are the implications of different license choices?</li></ul> |
 
 ## Why this matters
 
-In the previous section, you identified and evaluated resources that could support your training.
+In the previous section, you identified and evaluated existing resources.
 
-This section focuses on a critical question:
+This section focuses on what makes those resources open and how licensing affects your ability to reuse, adapt, and share them.
 
-- Are you actually allowed to use, adapt, and share these materials?
-
-Not all resources that are easy to access are open. Some materials may be free to view or download, but still cannot be modified, shared, or reused in your own materials.
-
-If you do not check this, you may invest time adapting something you are not allowed to change or create materials you cannot legally share.
+Not all freely available materials are open. Openness depends on permissions.
 
 !!! quote "This section helps you move from..."
-    *“This is available, so I can use it.”*  
+    *“Can I access this resource?”*  
     to:  
-    *“I understand what I am allowed to do—and can design accordingly.”*
+    *“What am I allowed to do with it?”*
 
 ## Core concepts
 
-!!! abstract "Openness and permissions"
-    A resource is open when its permissions clearly allow reuse, adaptation, and sharing. Openness is about what you are allowed to do, not only about whether a resource is free to access.
+!!! abstract "Openness and licensing"
+    Open resources are defined by permissions that allow reuse, adaptation, and sharing, usually through open licenses.
 
-**Licenses**  
-A license tells you whether a resource can be modified, shared, or reused, and under what conditions.
+**Open vs free**  
+Free access does not mean you can reuse or modify a resource.
 
-**The 5Rs in practical terms**  
-Open resources are often described through five permissions:
+**The 5Rs**  
+Open resources allow:
 
 - retain
 - reuse
@@ -1495,532 +1631,469 @@ Open resources are often described through five permissions:
 - remix
 - redistribute
 
-If a resource cannot be revised or redistributed, it may not meet your needs.
-
-**Attribution and compatibility**  
-Most open licenses require attribution. When combining resources, you also need to consider whether the licenses work together.
+**Licenses**  
+Licenses specify what is allowed and under what conditions.
 
 ## Practical guidance
 
-### Step 1 — Check permissions first
+### Step 1 — Check the license
 
-Before using or adapting a resource, check:
+Look for:
 
-- Is there a license?
-- What does it allow?
-- Are there any restrictions that affect your intended use?
+- Creative Commons licenses
+- explicit reuse permissions
 
-If there is no license, do not assume reuse is allowed.
+### Step 2 — Understand permissions
 
-### Step 2 — Understand common Creative Commons licenses
+Check:
 
-Use a practical reading:
-
-- **CC BY** — reuse and adapt with attribution
-- **CC BY-SA** — adapt and share under the same license
-- **CC BY-NC** — reuse and adapt, but not for commercial use
-- **CC BY-ND** — reuse only, no modification
+- can you adapt the material?
+- can you share it?
+- are there restrictions?
 
 ### Step 3 — Provide attribution
 
-Attribution usually includes:
+Include:
 
 - author
 - title
 - source
 - license
 
-When in doubt, credit clearly.
+### Step 4 — Check compatibility
 
-### Step 4 — Check compatibility when combining materials
+If combining resources:
 
-If you remix materials, make sure the licenses allow both modification and combination.
-
-### Step 5 — Be cautious with AI-generated content
-
-AI-generated content may contain unclear sourcing or permissions. Treat it as draft material unless you can verify what you are allowed to do.
+- ensure licenses are compatible
 
 ### Decision point
 
 > What choice does the reader need to make here?
 
-> How carefully will you consider permissions when selecting resources?
+> How carefully will you consider licensing?
 
-- Minimal checking
-- Basic checking
-- Intentional checking with clear documentation
-
-Your choice affects whether your materials can be safely adapted, reused, and shared.
+- Ignore licensing
+- Basic awareness
+- Careful selection and compliance
 
 ## Example
 
-- **Context:** A team selects an online resource for a training activity.
-- **Decision:** Can they adapt and include it in their materials?
-- **Action:** They check the license, confirm that adaptation is allowed, provide attribution, and avoid a second resource that cannot be modified.
-- **Outcome:** They use materials they are allowed to adapt and share, avoiding future limitations.
+- **Context:** A facilitator wants to adapt an existing training resource.
+- **Decision:** Is adaptation allowed?
+- **Action:** They check the license and confirm it allows modification with attribution.
+- **Outcome:** They adapt the resource confidently and legally.
 
 ## In practice
 
-👉 Update [Template 10: OER Design Decisions](../activities/template_10_oer.md)
+👉 Use [Template 10: OER Design Decisions](../activities/template_10_oer.md)
 
 Include:
 
-- **what to do:** Record the license, permissions, and attribution requirements for one resource you want to use
-- **expected output:** A documented permissions decision
-- **approximate time:** 15–20 minutes
-
-👉 Revisit [Template 7: Learning Activity Design](../activities/template_7_activity_design.md)
-
-Include:
-
-- **what to do:** Check whether the resources used in one activity have permissions that match your intended use
-- **expected output:** An activity design with clearer permissions and attribution
+- **what to do:** Check and document the license of one resource
+- **expected output:** A clear understanding of permissions and attribution requirements
 - **approximate time:** 10–15 minutes
 
 ## Key takeaways
 
 !!! tip "Key takeaway"
-    Open does not mean merely accessible. It means the permissions are clear enough to support reuse and adaptation.
+    Openness is defined by permissions, not access.
 
 !!! tip "Key takeaway"
-    Checking permissions early saves time and prevents avoidable restrictions later.
+    Always check and respect licenses.
 
 ## Before you move on
 
 You should now have:
 
-- checked the permissions for at least one resource
-- identified any limits on reuse or adaptation
-- documented the attribution and licensing implications for your design
+- identified the license of at least one resource
+- understood what you are allowed to do with it
+- applied basic attribution principles
+
+## Further reading (optional)
+
+- Wiley, D. (2014) — *The Access Compromise and the 5th R*  
+  → Supports: defining openness through permissions (retain, reuse, revise, remix, redistribute)  
+  → Why it matters: clarifies what makes resources truly open beyond free access  
+  → Source: https://opencontent.org/blog/archives/3221
+
+- Creative Commons (n.d.) — *About The Licenses*  
+  → Supports: understanding permissions and conditions of open licenses  
+  → Why it matters: provides authoritative guidance on how different licenses affect reuse and sharing  
+  → Source: https://creativecommons.org/licenses/
+
+- UNESCO (2019) — *Recommendation on Open Educational Resources (OER)*  
+  → Supports: policy definition of openness and rights associated with OER  
+  → Why it matters: establishes internationally recognised principles for access, reuse, and sharing  
+  → Source: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer
 
 # 3. Adapting, Remixing, and Localising OERs
 
 | Learning Outcomes | Guiding Questions |
 |------------------|------------------|
-| <ul><li>Adapt existing resources to better support intended learning outcomes</li><li>Localise materials to fit learner context and constraints</li><li>Remix multiple resources into a coherent learning experience</li><li>Prioritise adaptation efforts based on impact</li><li>Maintain clarity and coherence when modifying materials</li></ul> | <ul><li>What needs to change for this resource to work in your context?</li><li>Which parts of the resource support your outcomes—and which do not?</li><li>How can you make this material more relevant to your learners?</li><li>Do combined resources work together as a single experience?</li><li>Does the adapted material make sense without your explanation?</li></ul> |
+| <ul><li>Adapt existing OERs for your context</li><li>Apply basic remixing strategies</li><li>Localise materials to fit learner needs</li><li>Document changes clearly</li></ul> | <ul><li>What needs to change for your context?</li><li>How can you combine multiple resources?</li><li>How will you ensure coherence?</li><li>How will you document your changes?</li></ul> |
 
 ## Why this matters
 
-In the previous section, you checked whether you are allowed to use and adapt resources.
+In the previous section, you learned about openness and licensing.
 
-This section focuses on the next step:
-
-- How do you make those resources work for your learners and your context?
-
-Most resources are not designed for your exact setting. They may use unfamiliar examples, assume access to tools or infrastructure, or reflect different cultural or institutional realities.
+This section focuses on how to adapt and combine resources so they work in your context.
 
 !!! quote "This section helps you move from..."
-    *“This resource is good—I’ll use it as it is.”*  
+    *“Can I use this?”*  
     to:  
-    *“How do I change this so it works for my learners and context?”*
+    *“How do I make this work for my learners?”*
 
 ## Core concepts
 
-!!! abstract "Adaptation, localisation, and remixing"
-    Adapting changes a resource so it better supports your outcomes, localising makes it more relevant to your context, and remixing combines multiple resources into a coherent learning experience.
+!!! abstract "Adaptation and localisation"
+    Adapting and localising OERs involves modifying content, examples, and structure so that materials fit new contexts and audiences.
 
 **Adaptation**  
-Change the content, structure, difficulty, or instructions so the material works better for your learners.
+Changing content to improve relevance.
+
+**Remixing**  
+Combining multiple resources into one.
 
 **Localisation**  
-Replace examples, terminology, references, or assumptions so learners can recognise themselves and their realities in the material.
-
-**Coherence**  
-If you combine resources, they should still feel like one connected learning experience with clear sequence, terminology, and purpose.
+Adjusting materials to fit language, culture, and context.
 
 ## Practical guidance
 
-### Step 1 — Start with your outcomes
+### Step 1 — Identify what to change
 
-Before changing anything, ask:
+Focus on:
 
-- What do learners need to be able to do?
-- Which parts of the resource support that?
-- Which parts do not?
+- examples
+- language
+- context
 
-### Step 2 — Prioritise what to adapt
+### Step 2 — Adapt for clarity and relevance
 
-Focus first on changes that affect:
+Ensure:
 
-- understanding
-- relevance
-- feasibility
+- content makes sense in your context
+- instructions are clear
+
+### Step 3 — Combine resources if needed
+
+Ensure:
+
+- coherence
 - alignment with outcomes
 
-You do not need to change everything.
+### Step 4 — Localise content
 
-### Step 3 — Adapt for clarity and usability
+Adjust:
 
-- simplify or clarify instructions
-- adjust structure or sequence
-- change the level of difficulty where needed
+- examples
+- references
+- assumptions
 
-### Step 4 — Localise for relevance
+### Step 5 — Document changes
 
-- replace unfamiliar examples
-- adjust language or terminology
-- reflect local conditions, norms, and constraints
+Record:
 
-### Step 5 — Remix carefully
-
-When combining materials:
-
-- make sure they support the same or related outcomes
-- align level and complexity
-- use consistent language and expectations
-
-### Step 6 — Check coherence
-
-Review the whole activity or sequence and ask:
-
-- Does this still make sense as one experience?
-- Could someone else use it without my explanation?
-
-### Step 7 — Document your changes
-
-Keep a short record of:
-
-- what you changed
-- why you changed it
-- what may still need adaptation later
+- what was changed
+- why
 
 ### Decision point
 
 > What choice does the reader need to make here?
 
-> How much effort will you invest in adapting and refining materials?
+> How much adaptation is needed?
 
-- Minimal adaptation
-- Targeted adaptation
-- Intentional redesign through adaptation, localisation, and remixing
-
-Your choice affects relevance, usability, and learning quality.
+- Minimal changes
+- Moderate adaptation
+- Significant redesign
 
 ## Example
 
-- **Context:** A team selects an open activity on data analysis.
-- **Decision:** Should they use it as it is, or adapt it?
-- **Action:** They simplify the instructions, replace the examples with local data, adjust the difficulty, and combine it with another short activity. They then review the whole sequence for clarity and alignment.
-- **Outcome:** The adapted material is easier to understand, more relevant, and more effective in practice.
+- **Context:** A facilitator adapts a global training resource for a local audience.
+- **Decision:** What needs to change?
+- **Action:** They replace examples, simplify language, and adjust activities.
+- **Outcome:** The resource becomes more relevant and usable.
 
 ## In practice
 
-👉 Revisit [Template 7: Learning Activity Design](../activities/template_7_activity_design.md)
+👉 Use [Template 10: OER Design Decisions](../activities/template_10_oer.md)
 
 Include:
 
-- **what to do:** Adapt one activity to improve clarity, relevance, and alignment
-- **expected output:** An updated activity ready for use
+- **what to do:** Adapt one resource for your context
+- **expected output:** A revised version with documented changes
 - **approximate time:** 20–30 minutes
-
-👉 Update [Template 10: OER Design Decisions](../activities/template_10_oer.md)
-
-Include:
-
-- **what to do:** Record what you changed and why
-- **expected output:** A short adaptation record for future reuse
-- **approximate time:** 10–15 minutes
 
 ## Key takeaways
 
 !!! tip "Key takeaway"
-    Adaptation should begin with outcomes, not with the resource itself.
+    Adaptation improves relevance and usability.
 
 !!! tip "Key takeaway"
-    Good localisation improves relevance without losing coherence.
+    Documenting changes supports reuse and transparency.
 
 ## Before you move on
 
 You should now have:
 
-- adapted at least one resource to fit your learners and context
-- checked that your revised material is coherent
-- documented the key changes you made
+- adapted at least one resource
+- ensured it fits your context
+- documented your changes
 
-# 4. Ensuring Accessibility and Usability
+## Further reading (optional)
+
+- Okada, A. (2013) — *Open Educational Resources and Social Networks: Co-Learning and Professional Development*  
+  → Supports: adapting and remixing OERs for collaborative learning  
+  → Why it matters: demonstrates how co-learning and remixing improve relevance and usability of resources  
+  → Source: https://doi.org/10.4324/9780203076934
+
+- Wolfenden, F., Buckler, A., & Keraro, F. (2012) — *OER Adaptation and Reuse Across Cultural Contexts in Sub-Saharan Africa*  
+  → Supports: localisation and contextual adaptation of OERs  
+  → Why it matters: provides Global South evidence on adapting materials to fit local contexts  
+  → Source: https://doi.org/10.19173/irrodl.v13i2.1146
+
+- Hilton, J., Wiley, D., Stein, J., & Johnson, A. (2010) — *The Four ‘R’s of Openness and ALMS Analysis*  
+  → Supports: remixing and technical/legal considerations in adapting OERs  
+  → Why it matters: explains practical constraints and possibilities when combining open resources  
+  → Source: https://opencontent.org/blog/archives/3442
+
+# 4. Sharing and Publishing OERs
 
 | Learning Outcomes | Guiding Questions |
 |------------------|------------------|
-| <ul><li>Design materials that can be used without your presence</li><li>Improve clarity, structure, and independence of use</li><li>Ensure materials are accessible across different environments</li><li>Make assumptions explicit to support reuse and adaptation</li><li>Test materials for usability beyond your original context</li></ul> | <ul><li>Could someone else use this without your explanation?</li><li>What assumptions are not written down?</li><li>Are your materials easy to access, edit, and adapt?</li><li>Where might someone struggle to use this?</li><li>Would this still work in a different context?</li></ul> |
+| <ul><li>Prepare materials for sharing</li><li>Select appropriate platforms for publishing</li><li>Apply basic metadata and documentation practices</li><li>Understand sustainability considerations</li></ul> | <ul><li>Where should you share your materials?</li><li>What information should accompany them?</li><li>How will others find and use them?</li><li>How will you maintain them over time?</li></ul> |
 
 ## Why this matters
 
-In Module 1, you designed training that works with you as the facilitator.
+In the previous section, you adapted and localised resources.
 
-In the bridging section and earlier Module 2 sections, you explored how to reuse and adapt resources.
-
-This section focuses on a critical shift:
-
-- Can your materials work without you, and in contexts different from your own?
-
-If your materials depend on your explanations, your memory, or highly specific context, then others cannot use them effectively and even future you may struggle to reuse them.
+This section focuses on sharing your materials so others can use, adapt, and build on them.
 
 !!! quote "This section helps you move from..."
-    *“This works when I teach it.”*  
+    *“I have useful materials”*  
     to:  
-    *“This works without me—and can be used by others.”*
+    *“Others can find, use, and adapt these materials.”*
 
 ## Core concepts
 
-!!! abstract "Accessibility and usability"
-    Materials are accessible when people can obtain and open them, and usable when they can understand and use them independently without needing extra explanation.
+!!! abstract "Sharing and sustainability"
+    Sharing OERs requires clear documentation, accessible formats, and consideration of long-term use.
 
-**Independence of use**  
-Reusable materials should not rely on unstated assumptions, facilitator memory, or context that exists only in your head.
+**Documentation**  
+Clear instructions, context, and metadata support reuse.
 
-**Editable, adaptable design**  
-Reusable materials are easier to work with when they are shared in formats that can be edited, adapted, and reorganised.
-
-**Transfer across contexts**  
-Some material can stay context-specific, but the structure should still make it clear what can be changed and what needs to stay stable.
+**Platforms**  
+Repositories, websites, and institutional platforms enable access.
 
 ## Practical guidance
 
-### Step 1 — Make materials usable without your presence
+### Step 1 — Prepare materials
 
-Ensure materials include:
+Ensure:
 
-- clear step-by-step instructions
-- defined outputs or expected results
-- enough explanation for independent use
+- clarity
+- completeness
+- usability
 
-### Step 2 — Ensure materials can be accessed
+### Step 2 — Add documentation
 
-Check that materials:
+Include:
 
-- open on common devices
-- are available in practical formats
-- do not require unnecessarily large downloads or constant connectivity
+- description
+- instructions
+- context
+- license
 
-### Step 3 — Use editable and adaptable formats
+### Step 3 — Choose a platform
 
-Support reuse by:
+Consider:
 
-- using formats that can be edited
-- structuring content into sections
-- making it easy to reuse parts independently
+- accessibility
+- audience
+- sustainability
 
-### Step 4 — Make assumptions visible
+### Step 4 — Plan for maintenance
 
-State:
+Decide:
 
-- required prior knowledge
-- required tools or resources
-- what can be adapted
-- where additional explanation may be needed
-
-### Step 5 — Improve clarity and consistency
-
-Use:
-
-- simple language
-- consistent terminology
-- stable structure across activities and sections
-
-### Step 6 — Test for usability
-
-Review the material from another perspective or ask someone else to try using it without your help.
+- who will update materials
+- how often
 
 ### Decision point
 
 > What choice does the reader need to make here?
 
-> How usable and accessible will your materials be beyond your own delivery?
+> How will you share your materials?
 
-- Minimal
-- Improved
-- Fully usable and adaptable without your presence
-
-Your choice affects reuse, scalability, and long-term value.
+- Not share
+- Share informally
+- Publish openly
 
 ## Example
 
-- **Context:** A team has developed a training activity on climate data analysis.
-- **Decision:** Can others use this activity without the original facilitator?
-- **Action:** They clarify the instructions, define expected outputs, replace implicit assumptions with explicit guidance, share an editable version, and ask a colleague to test the activity independently.
-- **Outcome:** The activity can be used by others, adapted for new contexts, and reused in future training.
+- **Context:** A facilitator has developed a training module.
+- **Decision:** Should they share it?
+- **Action:** They document it and upload it to a repository.
+- **Outcome:** Others can use and adapt it.
 
 ## In practice
 
-👉 Revisit [Template 7: Learning Activity Design](../activities/template_7_activity_design.md)
+👉 Use [Template 10: OER Design Decisions](../activities/template_10_oer.md)
 
 Include:
 
-- **what to do:** Review one activity from another person’s perspective and improve it for independent use
-- **expected output:** A revised activity that is clearer and more usable
-- **approximate time:** 15–20 minutes
-
-👉 Update [Template 10: OER Design Decisions](../activities/template_10_oer.md)
-
-Include:
-
-- **what to do:** Record assumptions, usability improvements, and adaptation points
-- **expected output:** A documented set of usability decisions
-- **approximate time:** 10–15 minutes
-
-## Key takeaways
-
-!!! tip "Key takeaway"
-    Materials must work without you if you want them to be reused.
-
-!!! tip "Key takeaway"
-    Clarity, explicit assumptions, and editable formats are central to practical reuse.
-
-## Before you move on
-
-You should now have:
-
-- improved at least one activity for independent use
-- identified and clarified key assumptions
-- made your materials more accessible and adaptable
-
-# 5. Publishing, Sharing, and Sustaining Your OER
-
-| Learning Outcomes | Guiding Questions |
-|------------------|------------------|
-| <ul><li>Prepare materials so others can find, understand, and use them</li><li>Select appropriate platforms and formats for sharing</li><li>Make intentional licensing decisions aligned with your goals</li><li>Support reuse through documentation, attribution, and versioning</li><li>Plan for ongoing use and improvement of materials</li></ul> | <ul><li>Can others find, understand, and use your materials independently?</li><li>Where will you publish, and why?</li><li>What license reflects how you want your work used?</li><li>What would make your materials easier to reuse and adapt?</li><li>How will your materials be maintained over time?</li></ul> |
-
-## Why this matters
-
-In the previous sections, you found and evaluated resources, checked permissions, adapted and localised materials, and improved accessibility and usability.
-
-This section focuses on the next step:
-
-- How do you ensure your materials can be found, used, and built on over time?
-
-If materials are not shared effectively:
-
-- others may not find them
-- they may not know how to use them
-- they may not be reused or improved
-
-!!! quote "This section helps you move from..."
-    *“I’ve created something useful.”*  
-    to:  
-    *“Others can find, understand, use, and build on this.”*
-
-## Core concepts
-
-!!! abstract "Publishing for reuse and sustainability"
-    Publishing for reuse means sharing materials in ways that make them findable, understandable, and adaptable. Sustainability means keeping them usable and improving them over time.
-
-**Publishing for reuse**  
-Publishing is not only uploading files. It includes choosing suitable platforms, clear permissions, usable formats, and enough context for others to know what the resource is for.
-
-**Documentation, attribution, and versioning**  
-People are more likely to reuse materials when they know how to use them, where they came from, and what changed over time.
-
-**Sustainability**  
-Sustainable materials are easier to update, easier to maintain, and easier for others to improve or adapt.
-
-## Practical guidance
-
-### Step 1 — Decide what to share
-
-Focus first on materials that:
-
-- are complete enough to be useful
-- can be understood without your explanation
-- have value beyond your immediate context
-
-### Step 2 — Choose where to publish
-
-Select a location where others can reliably access your materials, such as:
-
-- institutional repositories
-- open repositories
-- project or organisational websites
-- well-structured shared collections
-
-Prioritise stability and accessibility.
-
-### Step 3 — Make permissions clear
-
-Choose and include a license that reflects your intentions. Your license shapes whether others can reuse, adapt, or redistribute your work.
-
-### Step 4 — Provide context for use
-
-Include:
-
-- purpose
-- intended audience
-- instructions for use
-- notes on adaptation where relevant
-
-### Step 5 — Include attribution and sources
-
-If you reused or adapted materials:
-
-- credit the original creators
-- indicate what you changed
-
-### Step 6 — Make materials easy to use and adapt
-
-- share editable formats where possible
-- organise files clearly
-- separate components that may be reused independently
-
-### Step 7 — Track versions and updates
-
-Support ongoing use by noting:
-
-- version numbers or dates
-- what changed
-- where feedback has been incorporated
-
-### Step 8 — Share early and improve over time
-
-Do not wait for perfection. Share something usable, then improve it as you learn.
-
-### Decision point
-
-> What choice does the reader need to make here?
-
-> How will you approach sharing your materials?
-
-- Share minimally
-- Share with basic structure and context
-- Share intentionally to support reuse, adaptation, and sustainability
-
-Your choice affects reach, value, and long-term impact.
-
-## Example
-
-- **Context:** A team has developed a training activity on climate data.
-- **Decision:** How should they share it?
-- **Action:** They select one activity to share, upload it to a stable open platform, include a clear license, provide instructions and context, share an editable version, and document the version and source information.
-- **Outcome:** The material can be found, used, adapted, and improved over time.
-
-## In practice
-
-👉 Revisit [Template 7: Learning Activity Design](../activities/template_7_activity_design.md)
-
-Include:
-
-- **what to do:** Prepare one activity for sharing by checking clarity, structure, and reusability
-- **expected output:** A clear, usable resource ready to publish
+- **what to do:** Prepare one resource for sharing
+- **expected output:** A publishable resource
 - **approximate time:** 20–30 minutes
 
-👉 Update [Template 10: OER Design Decisions](../activities/template_10_oer.md)
-
-Include:
-
-- **what to do:** Record publishing, licensing, attribution, and sustainability decisions
-- **expected output:** A documented plan for sharing and maintaining the resource
-- **approximate time:** 10–15 minutes
-
 ## Key takeaways
 
 !!! tip "Key takeaway"
-    Sharing only creates value when others can find, understand, and reuse what you publish.
+    Sharing increases impact and reuse.
 
 !!! tip "Key takeaway"
-    Start small, publish clearly, and improve over time rather than waiting for perfection.
+    Documentation is essential for usability.
 
 ## Before you move on
 
 You should now have:
 
 - prepared at least one resource for sharing
-- selected a publishing location and licensing approach
-- documented the information needed to support reuse and future improvement
+- added basic documentation
+- selected a sharing approach
+
+## Further reading (optional)
+
+- Atenas, J., & Havemann, L. (2013) — *Quality Assurance in the Open: An Evaluation of OER Repositories*  
+  → Supports: documentation, metadata, and quality considerations for sharing OERs  
+  → Why it matters: highlights factors that make OER discoverable and usable by others  
+  → Source: https://doi.org/10.19173/irrodl.v14i2.1530
+
+- MIT OpenCourseWare (n.d.) — *Publishing Guidelines*  
+  → Supports: preparing materials and documentation for sharing  
+  → Why it matters: provides practical standards for structuring and publishing reusable learning materials  
+  → Source: https://ocw.mit.edu/pages/help/publishing/
+
+- UNESCO (2019) — *Recommendation on Open Educational Resources (OER)*  
+  → Supports: sharing, accessibility, and sustainability of OER  
+  → Why it matters: defines global principles for making educational resources openly available  
+  → Source: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer
+
+# 5. Sustaining and Improving OERs
+
+| Learning Outcomes | Guiding Questions |
+|------------------|------------------|
+| <ul><li>Plan for ongoing improvement of materials</li><li>Incorporate feedback into revisions</li><li>Understand sustainability challenges</li><li>Develop simple maintenance strategies</li></ul> | <ul><li>How will you improve your materials over time?</li><li>How will you collect and use feedback?</li><li>What challenges affect sustainability?</li><li>What simple strategies can you use to maintain materials?</li></ul> |
+
+## Why this matters
+
+In the previous section, you shared your materials.
+
+This section focuses on sustaining and improving them over time.
+
+!!! quote "This section helps you move from..."
+    *“I have shared my materials”*  
+    to:  
+    *“I can improve and sustain them over time.”*
+
+## Core concepts
+
+!!! abstract "Sustainability and improvement"
+    Sustaining OERs involves ongoing updates, feedback, and adaptation.
+
+**Feedback loops**  
+Feedback supports improvement.
+
+**Sustainability**  
+Time, resources, and ownership affect long-term use.
+
+## Practical guidance
+
+### Step 1 — Collect feedback
+
+Use:
+
+- user feedback
+- observation
+- follow-up
+
+### Step 2 — Revise materials
+
+Update:
+
+- content
+- examples
+- structure
+
+### Step 3 — Plan maintenance
+
+Decide:
+
+- who is responsible
+- update frequency
+
+### Step 4 — Keep versions
+
+Track:
+
+- changes over time
+- improvements
+
+### Decision point
+
+> What choice does the reader need to make here?
+
+> How will you sustain your materials?
+
+- No updates
+- Occasional updates
+- Regular improvement
+
+## Example
+
+- **Context:** A facilitator has shared materials.
+- **Decision:** How to maintain them?
+- **Action:** They collect feedback and update regularly.
+- **Outcome:** Materials remain useful and relevant.
+
+## In practice
+
+👉 Use [Template 8: Feedback & Evaluation Plan](../activities/template_8_evaluation.md)
+
+Include:
+
+- **what to do:** Plan feedback and improvement cycles
+- **expected output:** A sustainability plan
+- **approximate time:** 15–20 minutes
+
+## Key takeaways
+
+!!! tip "Key takeaway"
+    OERs improve through use and feedback.
+
+!!! tip "Key takeaway"
+    Sustainability requires planning, even if simple.
+
+## Before you move on
+
+You should now have:
+
+- a plan for collecting feedback
+- a strategy for updating materials
+- an approach to sustaining your OERs
+
+## Further reading (optional)
+
+- Downes, S. (2007) — *Models for Sustainable Open Educational Resources*  
+  → Supports: sustainability challenges and models for maintaining OERs  
+  → Why it matters: outlines practical approaches to sustaining open resources over time  
+  → Source: https://www.oecd.org/education/ceri/38645447.pdf
+
+- Wiley, D., Bliss, T., & McEwen, M. (2014) — *Open Educational Resources: A Review of the Literature*  
+  → Supports: ongoing improvement and impact of OER use  
+  → Why it matters: synthesises evidence on how OER are used, improved, and sustained  
+  → Source: https://doi.org/10.3102/0034654314553571
+
+- Hodgkinson-Williams, C., & Gray, E. (2009) — *Degrees of Openness: The Emergence of Open Educational Resources at the University of Cape Town*  
+  → Supports: feedback, iteration, and sustainability in OER practice  
+  → Why it matters: provides a Global South case study on sustaining and improving OER initiatives  
+  → Source: https://open.uct.ac.za/handle/11427/2981

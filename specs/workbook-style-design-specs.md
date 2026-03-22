@@ -326,11 +326,112 @@ Prepare for next section:
 
 ---
 
+
+
 # 13. Versioning
 
 - Version: v1  
 - Status: Draft  
 
+---
+
+## 13. Further Reading (Updated Specification)
+
+The **Further Reading** section provides curated, high-quality references that directly support the concepts covered in each section of the workbook.
+
+### Purpose
+
+The goal of this section is to:
+
+- Reinforce key concepts with credible external sources  
+- Provide pathways for deeper exploration  
+- Anchor the workbook in established theory, evidence, and practice  
+
+### Placement
+
+- Include a **“## Further reading (optional)”** section at the **end of each content section**
+- Place it **after “Before you move on”**
+- Do not include it in templates or activity-only sections
+
+---
+
+### Reference Selection Criteria
+
+Each section must include **2–4 references** that:
+
+- Directly support **specific concepts in that section**
+- Are **widely recognised and credible**, including:
+  - peer-reviewed academic literature  
+  - policy frameworks  
+  - high-quality practitioner guides  
+- Are **relevant to the topic**
+- Where appropriate, include:
+  - Global South perspectives  
+  - inclusive or participatory approaches  
+
+Avoid:
+
+- Generic or loosely related sources  
+- Repeating the same references across multiple sections unless essential  
+
+---
+
+### Required Format (Strict)
+
+Each reference must follow this structure exactly:
+
+- Author(s) or organisation (Year) — *Title*  
+  → Supports: [specific concept from the section]  
+  → Why it matters: [1 concise sentence linking to the section]  
+  → Source: [direct URL to original source]
+
+---
+
+### Additional Requirements
+
+- **Explicitly link each reference to the section content**  
+  (e.g. “Supports: cognitive load in learning design”)  
+
+- **Descriptions must be concise and specific**  
+  - Maximum: **1 sentence per line**  
+  - Avoid vague phrasing (e.g. “useful overview”)  
+
+- **Include a working link to the original source**  
+  - Prefer:
+    - DOI links  
+    - publisher pages  
+    - official organisational pages  
+  - Avoid:
+    - broken links  
+    - secondary summaries unless necessary  
+
+- **Do not include commentary outside the reference block**
+
+---
+
+### Quality Standard
+
+A strong Further Reading section should:
+
+- Clearly **map each reference to a concept in the section**
+- Provide **immediate value without requiring interpretation**
+- Balance:
+  - foundational theory  
+  - applied/practical guidance  
+- Support both:
+  - **learning design decisions**
+  - **real-world application**
+
+---
+
+### Example (for guidance)
+
+## Further reading (optional)
+
+- Biggs, J., & Tang, C. (2011) — *Teaching for Quality Learning at University*  
+  → Supports: constructive alignment between outcomes, activities, and assessment  
+  → Why it matters: provides a widely used framework for aligning teaching design decisions  
+  → Source: https://www.mheducation.com/highered/product/teaching-quality-learning-university-biggs/M9780335242757.html
 ---
 
 # 14. Implementation Plan
