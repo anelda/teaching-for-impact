@@ -1,0 +1,120 @@
+site_name: "Teaching for Impact: Designing Effective & Open Training¶"
+site_url: https://talarify.github.io/FeME-online
+
+use_directory_urls: true
+
+theme:
+  name: material
+  logo: 
+  favicon: 
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.sections
+    - navigation.prune
+    - navigation.indexes
+    - content.tabs.link
+    - toc.integrate
+    - navigation.path
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - toc.follow          # Highlight on scroll
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - footnotes
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - tables
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true 
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - toc:
+      permalink: true      # Add anchor links
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+      toc_depth: 2       # Maximum depth
+
+plugins:
+  - glightbox
+  - search
+
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - manage
+      - reject
+
+copyright: >
+  Copyright &copy; 2026 Failure Modes of Engineering - <a href="#__consent">Change cookie settings</a>
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Part 1 - Designing Training:
+      - Overview: part-1/index.md
+      - 1. Getting Started: part-1/lesson-1.md
+      - 2. Understanding Your Learners: part-1/lesson-2.md
+      - 3. How People Learn: part-1/lesson-3.md
+      - 4. Defining Impact: part-1/lesson-4.md
+      - 5. Co-Designing: part-1/lesson-5.md
+      - 6. Designing Learning Experiences: part-1/lesson-6.md
+      - 7. Practice, Feedback, and Iteration: part-1/lesson-7.md
+      - 8. Assessment and Evaluation: part-1/lesson-8.md
+  - Part 2 - Training to Content: part-2/lesson-1.md
+  - Part 3 - OERs:
+      - Overview: part-3/index.md
+      - Lesson 1: part-3/lesson-1.md
+      - Lesson 2: part-3/lesson-2.md
+      - Lesson 3: part-3/lesson-3.md
+      - Lesson 4: part-3/lesson-4.md
+      - Lesson 5: part-3/lesson-5.md
+  - Conclusion: conclusion.md
+  - Activities:
+      - Templates: activities/index.md
+  - Resources:
+      - Glossary: resources/glossary.md
