@@ -1,5 +1,9 @@
 :root > * {
 
+html, body {
+  min-height: 100%;
+}
+
   /* =========================
      PRIMARY BRAND COLOURS
      ========================= */
