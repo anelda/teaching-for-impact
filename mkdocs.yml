@@ -34,7 +34,7 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - javascripts/password.js
+  - javascripts/passwords.js
 
 markdown_extensions:
   - footnotes
