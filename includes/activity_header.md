@@ -16,3 +16,9 @@
 >
 > - Outputs from earlier templates (if applicable)
 > - Notes from your current lesson
+
+<div class="download-btn-wrapper" markdown="0">
+<button class="md-button download-doc-btn" onclick="downloadPageAsDoc()">
+⬇ Download as .doc
+</button>
+</div>

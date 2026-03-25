@@ -11,7 +11,6 @@ used_in:
 
 In this exercise, you'll consider the larger system in which your training exists. 
 
-[download template](../downloads/template_1_system_map.docx)
 
 
 ### Your training

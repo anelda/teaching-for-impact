@@ -35,6 +35,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/passwords.js
+  - javascripts/download-docx.js
 
 markdown_extensions:
   - footnotes
