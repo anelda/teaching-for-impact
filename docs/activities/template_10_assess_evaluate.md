@@ -1,6 +1,9 @@
 ---
 used_in:
 - "Part 1 — [Lesson 8: Assessment and Evaluation for Learning and Impact](../part-1/lesson-8.md#in-practice)"
+what_to_do: "Define indicators, assessment methods, and evidence sources for one training sequence"
+expected_output: "A plan for assessment and evaluation"
+approximate_time: "20–30 minutes"
 ---
 
 {% include "activity_header.md" %}

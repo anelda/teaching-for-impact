@@ -131,19 +131,7 @@ Your answer shapes how you design the training.
 
 👉 Use [Template 1: System Map](../activities/template_1_system_map.md)
 
-Include:
-
-- **what to do:** Map actors, resources, constraints, relationships, and external influences
-- **expected output:** A simple system map showing how your training fits into a broader context
-- **approximate time:** 20–30 minutes
-
 👉 Use [Template 2: Theory of Change](../activities/template_2_theory_of_change.md)
-
-Include:
-
-- **what to do:** Link inputs, activities, outputs, outcomes, and impact
-- **expected output:** A one-page Theory of Change for your training
-- **approximate time:** 20–30 minutes
 
 ## Key takeaways
 

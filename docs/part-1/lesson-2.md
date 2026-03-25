@@ -125,12 +125,6 @@ Your answer will shape your content, format, pace, and delivery choices.
 
 👉 Use [Template 3: Learner Reality Mapping](../activities/template_3_learner_reality.md)
 
-Include:
-
-- **what to do:** Map your audiences, their realities, constraints, strengths, and needs
-- **expected output:** A structured summary of learner needs and contextual design considerations
-- **approximate time:** 20–30 minutes
-
 ## Key takeaways
 
 !!! tip "Key takeaway"

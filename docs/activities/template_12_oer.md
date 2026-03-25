@@ -6,9 +6,22 @@ used_in:
 - "Part 2 — [Lesson 4: Adapting, Remixing, and Localising OER](../part-2/lesson-4.md)"
 - "Part 2 — [Lesson 5: Sharing and Publishing OER](../part-2/lesson-5.md)"
 - "Part 2 — [Lesson 6: Sustaining and Improving OER](../part-2/lesson-6.md)"
+what_to_do: "Work through your OER decisions — from context and evaluation to adaptation, sharing, and sustainability"
+expected_output: "A documented set of OER decisions covering reuse, licensing, adaptation, sharing, and maintenance"
+approximate_time: "20–30 minutes per section"
 ---
 
 {% include "activity_header.md" %}
+
+
+This template supports an **iterative workflow** across Module 2.  
+You will not complete everything at once. Instead, you will:
+
+- start with a specific resource or part of your training  
+- build and refine this template across lessons  
+- revisit and improve earlier sections as your design evolves  
+
+Treat this as a **living document**, not a one-time activity.
 
 ---
 

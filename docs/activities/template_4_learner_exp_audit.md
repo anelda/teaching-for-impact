@@ -1,6 +1,9 @@
 ---
 used_in:
 - "Part 1 — [Lesson 3: How People Learn: Cognitive, Social, and Contextual Perspectives](../part-1/lesson-3.md#in-practice)"
+what_to_do: "Analyse one part of your training to identify cognitive overload, passive learning, and missed opportunities for retrieval, practice, and interaction"
+expected_output: "A short diagnostic identifying key learning risks and 2–3 concrete improvements to strengthen learning"
+approximate_time: "15–20 minutes"
 ---
 
 {% include "activity_header.md" %}

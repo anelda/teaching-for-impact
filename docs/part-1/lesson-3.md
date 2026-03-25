@@ -116,19 +116,11 @@ Your choice will influence retention, confidence, and transfer into practice.
 
 👉 Use [Template 4: Learner Experience Audit](../activities/template_4_learner_exp_audit.md)
 
-Include:
-
-- **what to do:** Analyse one part of your training to identify cognitive overload, passive learning, and missed opportunities for retrieval, practice, and interaction  
-- **expected output:** A short diagnostic identifying key learning risks and 2–3 concrete improvements to strengthen learning  
-- **approximate time:** 15–20 minutes  
-
 👉 Revisit [Template 3: Learner Reality Mapping](../activities/template_3_learner_reality.md)
 
-Include:
-
-- **what to do:** Use your learner realities to identify where overload, confusion, or disengagement may occur  
-- **expected output:** Notes on how learner constraints affect learning design decisions  
-- **approximate time:** 10–15 minutes  
+- **what to do:** Use your learner realities to identify where overload, confusion, or disengagement may occur
+- **expected output:** Notes on how learner constraints affect learning design decisions
+- **approximate time:** 10–15 minutes
 
 ## Key takeaways
 

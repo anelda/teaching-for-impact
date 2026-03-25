@@ -13,8 +13,6 @@ guiding_questions:
   - How do you ensure your materials can be found and used?
 ---
 
-## Lesson 5 — Sharing and Publishing Open Educational Resources
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

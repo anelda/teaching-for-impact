@@ -1,6 +1,9 @@
 ---
 used_in:
 - "Part 1 — [Lesson 1: Training as Intervention and System](../part-1/lesson-1.md#in-practice)"
+what_to_do: "Map actors, resources, constraints, relationships, and external influences"
+expected_output: "A simple system map showing how your training fits into a broader context"
+approximate_time: "20–30 minutes"
 ---
 
 {% include "activity_header.md" %}

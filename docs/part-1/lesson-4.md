@@ -187,22 +187,11 @@ Your choice will affect the quality of your activities, assessment, and evaluati
 
 👉 Use [Template 5: Learning Outcomes](../activities/template_5_learning_outcomes.md)
 
-Include:
-
-- **what to do:** Draft or revise outcomes so they are observable and action-oriented
-- **expected output:** A short set of clear learning outcomes
-- **approximate time:** 15–20 minutes
 - **optional:** Use the [Bloom’s Taxonomy — Quick Guide](../resources/blooms_taxonomy.md) if you need help refining action verbs.
 
 👉 Use [Template 6: Alignment Table](../activities/template_6_alignment.md)
 
 This is an initial alignment check to structure your design. You will revisit and improve this as you develop activities and assessment in later sections.
-
-Include:
-
-- **what to do:** Create a first draft linking each learning outcome to evidence, activities, and assessment. You will refine this in later sections.
-- **expected output:** A first draft of the alignment table
-- **approximate time:** 20–30 minutes
 
 ## Key takeaways
 

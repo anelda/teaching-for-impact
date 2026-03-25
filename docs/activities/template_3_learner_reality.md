@@ -2,6 +2,9 @@
 used_in:
 - "Part 1 — [Lesson 2: Understanding Your Learners, Contexts, and Knowledge Systems](../part-1/lesson-2.md#in-practice)"
 - "Part 1 — [Lesson 3: How People Learn: Cognitive, Social, and Contextual Perspectives](../part-1/lesson-3.md#in-practice)"
+what_to_do: "Map your audiences, their realities, constraints, strengths, and needs"
+expected_output: "A structured summary of learner needs and contextual design considerations"
+approximate_time: "20–30 minutes"
 ---
 
 {% include "activity_header.md" %}

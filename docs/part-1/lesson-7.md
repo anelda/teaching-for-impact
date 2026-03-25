@@ -121,15 +121,7 @@ Your choice influences how well learning translates into real-world capability.
 
 👉 Use [Template 9: Practice and Feedback Plan](../activities/template_9_practice_feedback.md)
 
-Include:
-
-- **what to do:** Plan how learners will receive feedback and where revision will happen
-- **expected output:** A structured plan for practice and feedback during learning
-- **approximate time:** 20–30 minutes
-
 👉 Revisit [Template 8: Learning Activity Design](../activities/template_8_activity_design.md)
-
-Include:
 
 - **what to do:** Refine one activity to include practice, feedback, and at least one revision cycle
 - **expected output:** An improved activity design aligned with learning processes

@@ -148,21 +148,13 @@ Your choice will influence clarity, engagement, and learning quality.
 
 👉 Use [Template 8: Learning Activity Design](../activities/template_8_activity_design.md)
 
-Include:
-
-- **what to do:** Design or refine one activity with clear structure (objective, instructions, materials, time, output, feedback)  
-- **expected output:** A well-structured activity aligned with your learning outcomes  
-- **approximate time:** 20–30 minutes  
-
 ---
 
 👉 Revisit [Template 9: Practice & Feedback Plan](../activities/template_9_practice_feedback.md)
 
-Include:
-
-- **what to do:** Identify where learners will practise, receive feedback, and improve within your activity  
-- **expected output:** A clearer link between your activity and learning processes  
-- **approximate time:** 10–15 minutes  
+- **what to do:** Identify where learners will practise, receive feedback, and improve within your activity
+- **expected output:** A clearer link between your activity and learning processes
+- **approximate time:** 10–15 minutes
 
 ---
 

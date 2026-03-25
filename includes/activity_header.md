@@ -4,6 +4,11 @@
 > Work through it step by step. Keep your answers concise and focused.
 > Return to your lesson when you are done.
 >
+> {% if page.meta.what_to_do %}**What to do:** {{ page.meta.what_to_do }}{% endif %}
+>
+> {% if page.meta.expected_output %}**Expected output:** {{ page.meta.expected_output }}{% endif %}
+>
+> {% if page.meta.approximate_time %}**Approximate time:** {{ page.meta.approximate_time }}{% endif %}
 >
 > **Used in**
 > {% for item in page.meta.used_in %}

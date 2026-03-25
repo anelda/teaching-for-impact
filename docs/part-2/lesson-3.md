@@ -13,8 +13,6 @@ guiding_questions:
   - What problems arise when combining resources with different licenses?
 ---
 
-## Lesson 3 — Openness, Licensing, and Attribution
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

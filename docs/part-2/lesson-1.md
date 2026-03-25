@@ -11,8 +11,6 @@ guiding_questions:
   - What assumptions are embedded in your materials?
 ---
 
-## 1. Designing for Openness
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

@@ -168,15 +168,7 @@ Your choice will influence relevance, trust, and long-term usefulness.
 
 👉 Use [Template 7: Co-Design Plan](../activities/template_7_co_design.md)
 
-Include:
-
-- **what to do:** Identify who to involve, what decisions they can shape, and how input will be used
-- **expected output:** A practical co-design plan
-- **approximate time:** 20–30 minutes
-
 👉 Revisit [Template 1: System Map](../activities/template_1_system_map.md)
-
-Include:
 
 - **what to do:** Add the key constraints and power dynamics affecting your training
 - **expected output:** An updated system map with clearer design implications

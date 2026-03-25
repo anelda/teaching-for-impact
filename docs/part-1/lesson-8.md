@@ -127,15 +127,7 @@ Your choice affects how well you can understand learning and improve the trainin
 
 👉 Use [Template 10: Assessment & Evaluation Plan](../activities/template10_assess_evaluate.md)
 
-Include:
-
-- **what to do:** Define indicators, assessment methods, and evidence sources for one training sequence
-- **expected output:** A plan for assessment and evaluation
-- **approximate time:** 20–30 minutes
-
 👉 Revisit [Template 6: Alignment Table](../activities/template_6_alignment.md)
-
-Include:
 
 - **what to do:** Check that each assessment method reflects the intended outcome
 - **expected output:** A refined alignment between outcomes and assessment

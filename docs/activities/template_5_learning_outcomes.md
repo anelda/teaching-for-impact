@@ -1,6 +1,9 @@
 ---
 used_in:
 - "Part 1 — [Lesson 4: Defining Impact, Learning Outcomes, and Alignment](../part-1/lesson-4.md#in-practice)"
+what_to_do: "Draft or revise outcomes so they are observable and action-oriented"
+expected_output: "A short set of clear learning outcomes"
+approximate_time: "15–20 minutes"
 ---
 
 {% include "activity_header.md" %}

@@ -13,8 +13,6 @@ guiding_questions:
   - How do you make your adaptations visible to others?
 ---
 
-## Lesson 4 — Adapting and Localising Open Educational Resources
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

@@ -1,6 +1,9 @@
 ---
 used_in:
 - "Part 1 — [Lesson 7: Practice, Feedback, and Iteration](../part-1/lesson-7.md#in-practice)"
+what_to_do: "Plan how learners will receive feedback and where revision will happen"
+expected_output: "A structured plan for practice and feedback during learning"
+approximate_time: "20–30 minutes"
 ---
 
 {% include "activity_header.md" %}

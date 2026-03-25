@@ -1,6 +1,9 @@
 ---
 used_in:
 - "Part 1 — [Lesson 5: Co-Design and Constraints](../part-1/lesson-5.md#in-practice)"
+what_to_do: "Identify who to involve, what decisions they can shape, and how input will be used"
+expected_output: "A practical co-design plan"
+approximate_time: "20–30 minutes"
 ---
 
 {% include "activity_header.md" %}

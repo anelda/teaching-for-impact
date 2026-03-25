@@ -1,6 +1,9 @@
 ---
 used_in:
 - "Part 1 — [Lesson 4: Defining Impact, Learning Outcomes, and Alignment](../part-1/lesson-4.md#in-practice)"
+what_to_do: "Create a first draft linking each learning outcome to evidence, activities, and assessment"
+expected_output: "A first draft of the alignment table"
+approximate_time: "20–30 minutes"
 ---
 
 {% include "activity_header.md" %}

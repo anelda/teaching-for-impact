@@ -1,6 +1,9 @@
 ---
 used_in:
 - "Part 1 — [Lesson 6: Designing Learning Experiences for Participation and Co-Creation](../part-1/lesson-6.md#in-practice)"
+what_to_do: "Design or refine one activity with clear structure (objective, instructions, materials, time, output, feedback)"
+expected_output: "A well-structured activity aligned with your learning outcomes"
+approximate_time: "20–30 minutes"
 ---
 
 {% include "activity_header.md" %}

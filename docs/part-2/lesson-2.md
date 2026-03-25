@@ -13,8 +13,6 @@ guiding_questions:
   - When should you reuse, adapt, or create a resource?
 ---
 
-## Lesson 2 — Finding & Evaluating Open Educational Resources
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

@@ -1,6 +1,9 @@
 ---
 used_in:
 - "Part 1 — [Lesson 1: Training as Intervention and System](../part-1/lesson-1.md#in-practice)"
+what_to_do: "Link inputs, activities, outputs, outcomes, and impact"
+expected_output: "A one-page Theory of Change for your training"
+approximate_time: "20–30 minutes"
 ---
 
 {% include "activity_header.md" %}
