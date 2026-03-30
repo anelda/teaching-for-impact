@@ -2,4 +2,5 @@
 site/
 .claude/settings.local.json
 docs/downloads/
+docs/presentations/part-*.html
 .playwright-mcp/

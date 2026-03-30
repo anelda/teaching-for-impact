@@ -1,20 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Part 1: Designing Training — Teaching for Impact</title>
-  <link rel="stylesheet" href="reveal/dist/reveal.css">
-  <link rel="stylesheet" href="reveal/dist/theme/white.css">
-  <link rel="stylesheet" href="presentation.css">
-</head>
-<body>
-  <div id="presentation-content">
-  <a class="back-link" href="../presentations/">&larr; Back to workbook</a>
+{% extends "base.html" %}
 
-  <div class="reveal">
-    <div class="slides">
+{% block title %}Part 1: Designing Training{% endblock %}
 
+{% block slides %}
       <!-- Title slide -->
       <section>
         <h1>Part 1: Designing Training</h1>
@@ -134,14 +122,4 @@
         <h1>End of Part 1</h1>
         <p class="subtitle">Next: Part 2 &mdash; From Training Design to OER</p>
       </section>
-
-    </div>
-  </div>
-
-  </div><!-- end presentation-content -->
-
-  <script src="reveal/dist/reveal.js"></script>
-  <script src="reveal/plugin/notes/notes.js"></script>
-  <script src="presentation.js"></script>
-</body>
-</html>
+{% endblock %}
