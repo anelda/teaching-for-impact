@@ -4,3 +4,4 @@ site/
 docs/downloads/
 docs/presentations/part-*.html
 .playwright-mcp/
+__pycache__/

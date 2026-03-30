@@ -74,6 +74,12 @@ markdown_extensions:
           case: lower
       toc_depth: 2       # Maximum depth
 
+hooks:
+  - scripts/hooks.py
+
+watch:
+  - presentations
+
 plugins:
   - glightbox
   - search

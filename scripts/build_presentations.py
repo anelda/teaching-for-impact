@@ -30,7 +30,11 @@ def main() -> None:
     for template_path in templates:
         template = env.get_template(template_path.name)
         output = OUTPUT_DIR / template_path.name
-        output.write_text(template.render(), encoding="utf-8")
+        rendered = template.render()
+        if output.exists() and output.read_text(encoding="utf-8") == rendered:
+            print(f"  {template_path.name} (unchanged)")
+            continue
+        output.write_text(rendered, encoding="utf-8")
         print(f"  {template_path.name} -> {output.name}")
 
     print("Done.")
