@@ -105,6 +105,7 @@ copyright: >
 nav:
   - Home: index.md
   - Introduction: introduction.md
+  - Pre-work: pre-work/index.md
   - Part 1 - Designing Training:
       - Overview: part-1/index.md
       - 1. Training as a System Intervention: part-1/lesson-1.md
