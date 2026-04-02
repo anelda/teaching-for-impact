@@ -107,9 +107,14 @@ def render_activity_metadata(meta: dict) -> str:
     if meta.get("used_in"):
         parts.append("**Used in**\n")
         for item in meta["used_in"]:
-            parts.append(f"- {item}")
+            parts.append(f"- {resolve_internal_links(item)}")
         parts.append("")
     return "\n".join(parts)
+
+
+def resolve_internal_links(text: str) -> str:
+    """Convert internal markdown links to plain text, keeping external URLs."""
+    return re.sub(r"\[([^\]]+)\]\((?!https?://)[^)]+\)", r"\1", text)
 
 
 def resolve_image_paths(text: str, page_path: str) -> str:
@@ -136,6 +141,7 @@ def process_page(page_path: str) -> str:
     text = full_path.read_text(encoding="utf-8")
     meta, body = parse_front_matter(text)
     body = strip_jinja(body).strip()
+    body = resolve_internal_links(body)
     body = resolve_image_paths(body, page_path)
 
     # Render metadata inline based on page type
