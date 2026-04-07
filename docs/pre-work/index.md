@@ -1,49 +1,163 @@
+# Workshop Preparation
 
-A small amount of upfront preparation will help you make better use of the workshop time. None of this should take long — it's about arriving with something real to work with, not about getting ahead on theory.
+This workshop runs online over two days. A small amount of preparation will help you make better use of the time.
 
-Everything in the workshop is hands-on. You'll be designing, adapting, and refining training for a specific context. The activities work best when you come in with a concrete training project in mind and some familiarity with this workbook content.
-
-!!! tip "Don't aim for perfect"
-
-    None of this pre-work needs to be polished. A rough attempt is far more useful than nothing at all — it gives you raw material to develop during the workshop. We'll be building on these skills together, so treat this as a starting point, not a finished product.
+You do **not** need to prepare anything perfectly — just bring something real to work with.
 
 ---
 
-### 1. Gather your context
+# Before Day 1
 
-Bring whatever background information you have about your training project. This might include:
+This should take about 15–20 minutes.
 
-- notes on who your learners are and what they need
-- existing materials, outlines, or session plans
-- any constraints you're working within (time, budget, access, language)
-- feedback from previous deliveries, if available
+You can arrive with:
+- a fully developed course  
+- partial materials or ideas  
+- or just a rough concept  
 
-You won't need all of this for every activity, but having it on hand means you can make real decisions rather than guessing.
+All of these will work.
 
-### 2. What is the long-term effect / impact you want to achieve
+---
 
-Think about the bigger picture behind your training. If everything goes well — not just during the sessions, but afterwards — what changes? Maybe your learners go on to use a new technique in their daily work, or they start making better decisions in a specific area, or they contribute to a shift in how their team or community operates.
+## What you need ready (important for online)
 
-This isn't about writing a perfect impact statement. It's about having a direction. When you know what long-term change you're aiming for, it becomes much easier to decide what belongs in your training and what doesn't.
+Please make sure you have:
+- access to your notes or materials during the session  
+- a way to view and edit documents (Google Docs, Word, etc.)  
+- a stable internet connection  
 
-Write down a sentence or two. You'll refine this during the workshop.
+You will be working actively during the session, including in small groups.
 
-### 3. Think about at least one outcome that will contribute to the above
+---
 
-What should your learners be able to do when they're done with your training? Try to think in terms of concrete actions: create, analyse, apply, evaluate, build, explain. "Understand X" is a starting point, but push yourself toward what that understanding looks like in practice.
+## 1. Gather your context
 
-You don't need a complete list — even one clear outcome gives you something to work with in the workshop.
+Have access to anything you have about your training:
+- who your learners are  
+- what they need  
+- any materials, outlines, or plans  
+- constraints (time, tools, access)
 
-### 4. Think about at least one activity
+You don’t need to organise this — just have it available.
 
-For at least one of your outcomes, think about an activity or exercise that would let learners practise that skill. It doesn't need to be fully designed — even a loose idea is useful.
+---
 
-### 5. Look for learning resources
+## 2. Define your direction
 
-Do a bit of research to find resources that support your outcomes — things your learners could read, watch, or work through. For example, if you want people to be able to apply a skill, you might find a resource that builds their foundational understanding first.
+Write down (roughly):
+- one long-term change you want to contribute to  
+- one thing your learners should be able to do  
 
-While you're at it, check whether those resources have any licences or restrictions around re-use, adaptation, or commercial use. This will matter if you actually want to use those materials. If you don't have any experience with licenses, don't worry! We will be working through some basics in this workbook.
+---
 
-### 6. Bring something you've made
+## 3. Think of one activity
 
-If you have any learning material you've already created for your course — a handout, a slide deck, an exercise — bring it along. It doesn't need to be perfect. Having something concrete to look at and improve is more useful than starting from scratch.
+What is one way learners could practise that skill?
+
+This can be very rough.
+
+---
+
+## 4. (Optional) Bring a resource
+
+If you already know of something useful (article, video, training material), bring it.
+
+You do not need to find anything new.
+
+---
+
+## 5. Bring something you’ve made (if you have it)
+
+This could be:
+- a slide  
+- an activity  
+- a handout  
+
+If you don’t have anything yet, that’s fine — you can work from your ideas.
+
+---
+
+## What will happen in Day 1
+
+You will use this to:
+- clarify your training design  
+- define outcomes and activities  
+- align your training to your context  
+
+---
+
+# Between Day 1 and Day 2
+
+This should take about 20–30 minutes.
+
+You will use this directly in the Day 2 session.
+
+---
+
+## What you need ready (important for online)
+
+Please make sure you:
+- can access your Day 1 work  
+- can open any resources you bring  
+- can share or paste content into a shared document if needed  
+
+---
+
+## 1. Bring your Day 1 work
+
+Have access to:
+- your outcome(s)  
+- your activity idea(s)  
+- your notes on learners and constraints  
+
+---
+
+## 2. Bring one resource (if possible)
+
+Find **one resource** that relates to your topic.
+
+This could be:
+- an article  
+- a video  
+- an existing training material  
+
+Don’t overthink this — one is enough.
+
+If you don’t find anything, that’s fine — examples will be provided.
+
+---
+
+## 3. Bring one piece of your own material (if you have it)
+
+This could be:
+- a slide  
+- an activity  
+- a handout  
+
+It does not need to be complete.
+
+---
+
+## 4. Quick reflection (5 minutes)
+
+Look at your activity from Day 1 and ask:
+
+- What does this assume learners already know?
+- What would they need access to?
+- What might be unclear?
+
+Write down 2–3 points.
+
+---
+
+## What will happen in Day 2
+
+You will use this to:
+
+- identify assumptions in your materials  
+- evaluate existing resources  
+- decide what to reuse, adapt, or create  
+- improve materials so they can be used without you  
+- test whether others can use them  
+
+We will work step by step — you do not need to have everything ready.

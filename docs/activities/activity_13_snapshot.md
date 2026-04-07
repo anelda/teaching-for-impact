@@ -10,7 +10,7 @@ approximate_time: "20–30 minutes"
 
 ## Instructions
 
-You have worked through a full design cycle — from mapping your system to planning assessment. This activity pulls it all together into a single structured snapshot. This is not new work. You are gathering decisions you have already made, checking that they still cohere, and producing a summary you can share with collaborators or use as a foundation for Part 2.
+You have worked through a full design cycle — from mapping your system to planning assessment. This activity pulls it all together into a single structured snapshot. This is not new work. You are gathering decisions you have already made, checking that they still cohere, and producing a summary you can share with collaborators or use as a foundation for Part 2. As you review your snapshot, note any parts of your training where you suspect you might be able to reuse existing materials, where adaptation may be needed, or where you are likely to create something new. You do not need to decide yet — this will be explored in the next lesson.
 
 ## You will use
 

@@ -17,9 +17,24 @@ guiding_questions:
 
 Your materials work for your training. Now the question shifts: can someone else use them?
 
-There is a gap between materials that work for you and materials that work for others. You know your sequencing logic, the unstated context, the way an activity flows — but that knowledge is invisible to someone encountering your work for the first time. A facilitator browsing a repository needs to quickly understand what a resource is, who it is for, and how to use it. If those questions require detective work, they will move on.
+There is a gap between materials that work for you and materials that work for others. You know your sequencing logic, context, and how an activity flows — but this knowledge is not visible to someone encountering your work for the first time. A facilitator browsing a repository needs to quickly understand what a resource is, who it is for, and how to use it. If those questions require detective work, they will move on.
 
 This lesson is about closing that gap — through documentation, licensing, format choices, and platform decisions that make your work genuinely shareable.
+
+
+## Why this matters
+
+Creating or adapting materials is only part of the work. If those materials remain tied to your own delivery — dependent on your explanations, your sequencing, and your context — their usefulness stops with you. This builds directly on the decisions you made in earlier lessons about what to reuse, adapt, or create.
+
+Sharing is what turns individual materials into resources that others can use, adapt, and build on. It is the step where your work becomes part of a wider body of knowledge, rather than something that only works in your own setting.
+
+However, sharing is not simply a matter of uploading files. Materials that are not clearly documented, are difficult to edit, or are published where your intended audience will not find them are effectively unusable, even if they are openly licensed.
+
+Sharing also has real costs. Preparing materials so others can use them takes time, and it can feel uncomfortable to share work that is not perfect. You may also need to balance openness with organisational expectations or resource constraints. The goal is not to remove these tensions, but to make deliberate decisions about what is realistic to share and when.
+
+In many cases, “ready enough to be useful” is a more realistic goal than “fully complete.”
+
+The aim is not to share everything, perfectly. It is to make deliberate choices about what to share, how to share it, and what level of effort is justified — so that your materials can be used beyond your immediate context without creating unnecessary work for you.
 
 ## Choosing a license for your materials
 
@@ -57,12 +72,14 @@ Documentation is the context that makes your materials usable by strangers. At m
 - **Instructions for use** — how to use the materials, including sequencing, timing, and any preparation needed
 - **Assumptions and requirements** — what tools, access, or prior knowledge is needed
 - **License and attribution** — your chosen license and credits for any adapted materials
+- **Adaptation guidance (if relevant)** — notes on how the materials can be localised or translated, including which elements are intended to be replaced
+- **Attribution** — attribution should not be buried; make it easy for others to see what you built on
 
 Place this documentation where users will find it. A README file in a repository, an introductory section in a document, or a metadata page on a platform all work. The key is that someone should not have to open and read every file to understand what the collection contains and how to use it.
 
 ## Choosing formats and platforms
 
-Where and how you share materials affects who can access and use them. These are practical decisions, not afterthoughts.
+How you format and publish your materials determines not only whether others can access them, but whether they can adapt and reuse them effectively. These are practical decisions, not afterthoughts.
 
 ### Format for access
 
@@ -93,19 +110,22 @@ There is no single correct choice. You can publish in multiple places — a prim
 
 Even well-prepared materials are useless if no one can find them. Help potential users discover your work:
 
+- **Consistent naming and structure** — use clear file names and organisation so others can navigate your materials easily
 - **Clear, descriptive titles** — "Introduction to Qualitative Data Analysis: Workshop Materials for Community Health Researchers" is findable; "Module 3 Materials" is not
 - **Keywords and tags** — use terms your audience would search for, including discipline, level, method, and format
 - **A clear summary** — a 2–3 sentence description that tells someone what the materials are, who they are for, and what they cover
 - **Context for use** — a note about the setting the materials were designed for, which helps others judge relevance
 
+Where possible, use simple, consistent structures and formats so others can combine your materials with their own. Even small choices — clear headings, consistent file naming, and standard formats — make it easier for your work to be reused alongside other resources.
+
 ## In practice
 
 👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md) — prepare your materials for sharing
 
-Work through Section 4 (Prepare for Sharing). Document what you will share, in what format, with what license, on what platform, and with what documentation.
+Work through Section 5 (Prepare for Sharing). Document what you will share, in what format, with what license, on what platform, and with what documentation.
 
 - **what to do:** Prepare at least one set of materials for sharing — add documentation, choose a license, select a format and platform, and ensure the materials can be used without your explanation
-- **focus sections:** 4 (Prepare for Sharing)
+- **focus sections:** 5 (Prepare for Sharing)
 - **expected output:** Materials ready to share, with documentation, license, and a plan for where and how to publish
 - **approximate time:** 20–30 minutes
 

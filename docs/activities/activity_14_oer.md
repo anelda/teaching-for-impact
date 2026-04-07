@@ -24,16 +24,20 @@ This activity supports an iterative workflow across Part 2. You will not complet
 
 ---
 
-## 0. Context
+## 1. Context
+
+This context will guide your decisions about whether to reuse, adapt, or create materials.
 
 - **What material are you working on?** (e.g. activity, slide deck, dataset, full module)
 - **What learning outcomes does this support?**
 - **Who is this for?** (primary audience and, if relevant, secondary audience)
 - **What context will it be used in?** (e.g. location, access, tools, constraints)
 
+Based on this context, what constraints or requirements might affect whether you can reuse, adapt, or need to create this material?
+
 ---
 
-## 1. Find and Evaluate Resources
+## 2. Find and Evaluate Resources
 
 Evaluate at least one resource using the prompts below. Duplicate this block for each additional resource.
 
@@ -44,7 +48,7 @@ Evaluate at least one resource using the prompts below. Duplicate this block for
 - **Accessibility:**
     - Format and devices — does it work on the devices your learners have?
     - Bandwidth — does it require large downloads or streaming?
-    - Language — is it in a language your learners are comfortable with?
+    - Language — is it in a language your learners are comfortable with? Would translation be needed, and would meaning be preserved?
     - Assistive technology — is it structured for screen readers? Are images described?
 - **License (if known):**
 - **Allowed actions (reuse, adapt, share):**
@@ -53,7 +57,7 @@ Evaluate at least one resource using the prompts below. Duplicate this block for
 
 ---
 
-## 2. Design Decisions
+## 3. Design Decisions
 
 For the material you are developing:
 
@@ -61,7 +65,9 @@ For the material you are developing:
 - **What will you adapt?**
 - **What will you create from scratch?**
 
-**Why are you making these choices?** Consider effort, relevance, clarity, and context.
+Where relevant, consider whether localisation (adapting to context) or translation (adapting language) will be needed.
+
+**Why are you making these choices?** Refer to your learners, outcomes, and context. Consider effort, relevance, clarity, and contextual constraints.
 
 **If you are creating from scratch:** What made creation the right choice? Was nothing suitable available, or would adaptation have taken more effort than starting fresh? What gap does your new material fill?
 
@@ -78,7 +84,7 @@ Identify anything in your chosen resources that may limit reuse:
 
 ---
 
-## 3. Adaptation and Localisation Log
+## 4. Adaptation and Localisation Log
 
 Duplicate this block for each resource you are adapting.
 
@@ -90,7 +96,8 @@ Duplicate this block for each resource you are adapting.
 - **Structure or sequence:** What changed? Why?
 - **Examples or context:** What changed? Why?
 - **Level of difficulty:** What changed? Why?
-- **Accessibility** (format, language, alternative versions)**:** What changed? Why?
+- **Accessibility (format, language, devices, alternative versions):** What changed? Why?
+- **Language or localisation:** Did you translate the material or adapt it for a specific context? What changed and why?
 
 ### Attribution
 
@@ -100,7 +107,9 @@ Record the creator, title, source, license, and a note about what you changed.
 
 ---
 
-## 4. Prepare for Sharing
+## 5. Prepare for Sharing
+
+These choices should reflect your intended audience — where they are most likely to look and how they are most likely to use your materials.
 
 - **What will you share?** (e.g. full module, activity, dataset, slides)
 - **Format(s):** (e.g. Markdown, Word, slides, HTML — include editable source where possible)
@@ -109,17 +118,19 @@ Record the creator, title, source, license, and a note about what you changed.
 
 - **Description:**
 - **Instructions for use:**
-- **Context** (who it is for, where it fits)**:**
+- **Context:**
 - **Required materials or tools:**
 - **Expected outputs:**
-
+- **Intended audience:**
+- **Assumptions and requirements:**
 - **License:** (e.g. CC BY, CC BY-SA)
 - **Where will you share it?** (e.g. repository, website, institutional platform)
 - **Accessibility check:** Are your materials usable across devices, bandwidth levels, and with assistive technology?
+- **Attribution included and visible:** Are all adapted materials properly credited and easy to identify?
 
 ---
 
-## 5. Sustainability and Improvement
+## 6. Sustainability and Improvement
 
 ### Feedback
 
@@ -145,4 +156,4 @@ Record the creator, title, source, license, and a note about what you changed.
 
 - What improved most through this process?
 - What would you do differently next time?
-- What would another facilitator need to reuse this effectively?
+- What would make this easier to find and understand for another facilitator?

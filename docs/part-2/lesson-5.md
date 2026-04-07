@@ -19,7 +19,7 @@ In these situations, creation is not a fallback — it is the right choice. But 
 
 ## Why this matters
 
-Most training materials are created for a single delivery: this workshop, this group, this week. That is a natural starting point, but it means the materials often depend on your presence, your context, and your tacit knowledge to work. They are functional notes, not standalone resources.
+Most training materials are created for a single delivery: this workshop, this group, this week. That is a natural starting point, but it means the materials often depend on your context and tacit knowledge to work. They function as notes for your delivery rather than as standalone resources.
 
 Creating for openness means designing materials that can work beyond your immediate delivery — materials that a colleague in a different country could pick up, understand, adapt, and use effectively. This is a higher bar than "good enough for me," but it does not mean perfection. It means being deliberate about structure, clarity, and the assumptions you build in.
 
@@ -27,12 +27,15 @@ This matters especially for the audience of this workbook. If you are a research
 
 ## When to create from scratch
 
+Creation is the next step when adaptation (Lesson 4) is not sufficient or efficient for your context. 
+
 Creation makes sense when:
 
 - **Nothing suitable exists** — you have searched and evaluated, and no existing resource covers what you need
 - **The gap is too large to bridge through adaptation** — an existing resource would need to be so heavily modified that starting fresh is more efficient
 - **Your context is underrepresented** — the training you need reflects a setting, language, discipline, or learner population that is not well-served by existing OER
 - **Your approach is novel** — you are teaching something new, or teaching something familiar in a way that does not have established open materials
+- **Licensing is restrictive** — licensing might prevent you from adapting an otherwise suitable resource
 
 The decision to create should come *after* evaluating what exists (Lesson 2), not before. Even when you create from scratch, existing resources can inform your approach — you might borrow a structure from one, a question format from another, and an assessment approach from a third, without reusing any content directly.
 
@@ -53,7 +56,7 @@ This does not mean every module must be completely independent. It means the dep
 
 ### Use replaceable examples
 
-Examples are one of the hardest elements to transfer across contexts. A case study about water quality monitoring in rural Kenya is powerful for learners in East Africa — and potentially irrelevant to learners working on urban public health in Brazil.
+Examples are one of the hardest elements to transfer across contexts. A case study about water quality monitoring in rural Kenya is powerful for learners in East Africa — and potentially irrelevant to learners working on urban public health in Brazil. This is particularly important for localisation — examples should be easy to replace without changing the underlying teaching structure.
 
 When you create examples, build in replaceability:
 
@@ -112,10 +115,10 @@ If you are creating from scratch, revisit your Part 1 outputs:
 
 👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md) — document what you are creating and why
 
-Return to Sections 2 and 3. In Section 2, document what you are creating from scratch and why creation was the right choice (rather than reuse or adaptation). In Section 3, if your new materials draw on or are inspired by existing resources, document that relationship.
+Return to Sections 3 and 4. In Section 3, document what you are creating from scratch and why creation was the right choice (rather than reuse or adaptation). In Section 4, if your new materials draw on or are inspired by existing resources, document that relationship.
 
 - **what to do:** Document your creation decisions — what you are building, why existing resources were not suitable, and how your design supports reuse by others
-- **focus sections:** 2 (Design Decisions — creation rationale), 3 (Adaptation and Localisation Log — if building on existing approaches)
+- **focus sections:** 3 (Design Decisions — creation rationale), 4 (Adaptation and Localisation Log — if building on existing approaches)
 - **expected output:** Clear documentation of what you are creating and the design choices that support openness and adaptability
 - **approximate time:** 20–30 minutes
 

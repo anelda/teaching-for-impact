@@ -1,62 +1,119 @@
 ---
 learning_outcomes:
-  - Explain how designing for openness supports reuse, adaptation, and impact
-  - Identify key features of reusable and adaptable training materials
-  - Recognise hidden assumptions that limit reuse and accessibility
-  - Make one part of your training clearer and more self-contained
+  - Explain the ethos of open educational resources and how it shapes training design decisions
+  - Describe the value of openness for yourself, your learners, and the wider world
+  - Describe how your Part 1 design decisions determine what you can reuse, adapt, or need to create
+  - Distinguish between reuse, adaptation, and creation as approaches to developing training materials
 guiding_questions:
-  - Can your training be used without you being present?
-  - What makes a training resource easy to reuse or modify?
-  - What assumptions are embedded in your materials?
-  - What would another facilitator need to use your materials?
+  - What does it mean to design training materials using OER principles?
+  - How does openness change the way you think about your materials and your role as a facilitator?
+  - Where in your training might you be able to reuse, adapt, or need to create materials?
+  - How do your Part 1 design decisions influence what is possible to reuse, adapt, or create?
 ---
 
 {% include "lesson_header.md" %}
 
 You have a training design. It has structure, outcomes, activities, and assessment. It works — when you are in the room.
 
-But what happens when you are not? Could a colleague pick up your materials and run the session? Could you return to them in six months and remember why you sequenced things the way you did?
+In Part 1, you worked through how people learn, what your learners need, the systems your training sits within, and the change you are aiming to contribute to. You made decisions about outcomes, activities, and evaluation.
 
-This lesson is about shifting how you think about the materials you create. Not as things that support *your* delivery, but as resources that can stand on their own — clear enough to be reused, adapted, and improved by others.
+Now you need to turn that design into materials.
+
+The question is not only *what will you create?*  
+It is also: *what will you reuse, what will you adapt, and what needs to be created from scratch?*
+
+This lesson introduces a way of thinking about those decisions — through the ethos of open educational resources.
 
 ## Why this matters
 
-Most training materials are designed for a single moment: this workshop, this group, this facilitator. That is natural. But it also means the work you put into designing good training stays locked inside that one delivery.
+Designing training materials is not just a technical task. It reflects how you think about knowledge, learning, and your role as a facilitator.
 
-Designing for openness does not mean making everything public or polished. It means making deliberate choices — about clarity, structure, and assumptions — that allow your materials to travel beyond the session you originally designed them for. When materials are open, they can be reused by colleagues, adapted for new contexts, and improved over time rather than rebuilt from scratch.
+An “open” approach does not start with publishing or licensing. It starts with how you design:
 
-This matters especially if you work in a context where training resources are scarce, where colleagues need to deliver similar sessions, or where the knowledge you are teaching deserves to reach more learners than you can personally teach.
+- whether your materials can be understood and reused later — by you
+- whether learners can return to them to apply and build on what they learned
+- whether others can adapt them to different contexts
+
+When materials are designed with openness in mind:
+
+- **You benefit** — your work becomes easier to revisit, adapt, and improve over time, rather than being recreated for each delivery
+- **Your learners benefit** — materials remain usable beyond the session, supporting application, reflection, and different learning paths
+- **The wider world may benefit** — knowledge can circulate, be adapted, and be built on across contexts rather than remaining locked in a single delivery
+
+This is not about doing more work. It is about designing in a way that makes the work you are already doing more durable, adaptable, and useful.
+
+Openness is not only about making your own materials reusable. It is also about contributing to a shared body of knowledge that others can build on — just as you build on resources created by others. Over time, this creates a network of materials that evolve across contexts rather than remaining tied to a single delivery.
 
 !!! quote "This lesson helps you move from..."
-    *"These materials work when I deliver them"*
+    *"What materials do I need to deliver this training?"*
     to:
-    *"These materials can work without me in the room"*
+    *"How do I design materials that can be reused, adapted, and built on — starting with my own work?"*
 
-## What openness looks like in practice
-
-Openness is not a feature you add at the end. It is a set of design decisions you make throughout: how you write instructions, how you structure activities, what you make explicit, and what you leave implicit.
-
-Think about flat-pack furniture. Good assembly instructions use clear diagrams, label every part, and tell you when you need a second pair of hands. Bad instructions assume you already know which screw goes where. Training materials work the same way — the more explicit you are about context, purpose, and alternatives, the more useful they become to someone who was not in the room when you first designed them.
 
 ![Designing for openness cycle](../assets/images/lesson-visual-aids/tfi-reuse.svg)
 
-There are three broad approaches to building your training materials, and most effective training combines all three:
 
-- **Reuse** — use an existing resource as it is, because it already fits your needs
-- **Adapt** — modify an existing resource to better suit your learners and context
-- **Create** — build something new when nothing suitable exists
+## Openness as a design approach
 
-You do not need to decide which approach to take for each part of your training right now. That comes in the next lesson. For now, the important thing is to understand that all three approaches benefit from the same foundation: materials that are clear, well-structured, and honest about their assumptions.
+Openness is not a feature you add at the end. It is a way of making design decisions throughout your process.
 
-### What makes materials reusable
+An Open Educational Resource (OER) is a teaching or learning material that is openly licensed in a way that allows specific kinds of use.
 
-A resource is reusable when someone else — or your future self — can pick it up and use it without needing you to explain it. That sounds simple, but it requires deliberate effort.
+A resource is considered “open” when you are allowed to:
 
-Consider an activity you have run successfully. You know the instructions, the timing, the common stumbling points, and the adjustments you make on the fly. But how much of that knowledge lives in your head rather than in the materials themselves?
+- **retain** — keep and control a copy of the material  
+- **reuse** — use it in your teaching or learning  
+- **revise** — modify or adapt it  
+- **remix** — combine it with other materials  
+- **redistribute** — share it with others  
 
-Reusable materials tend to share a few characteristics. Instructions are written out rather than assumed. The purpose of each component is clear — not just *what* learners do, but *why*. Context is provided: who this is for, what learners should already know, what they will need. And the structure is modular enough that someone could use one piece without needing the whole sequence. 
+These are often referred to as the **5 Rs of open educational resources**.
 
-This is a high bar to hit! But you don't need to be perfect.
+This is what distinguishes OER from materials that are simply free to access. A resource you can view or download is not necessarily open.  A resource becomes open when you have **permission to act on it** — to adapt, combine, and share it.
+
+The 5 Rs describe what is *possible* with a resource. They do not determine what you *should* do — that depends on your learners, your context, and your design decisions.
+
+It means being deliberate about:
+
+- what you make explicit (instructions, purpose, assumptions)
+- how your materials are structured (modular, adaptable)
+- how they relate to context (what is fixed, what can change)
+
+Think back to your Part 1 work.
+
+You identified:
+- who your learners are
+- what they need
+- what constraints they operate under
+- what change is possible in that system
+
+Those decisions directly shape what can be reused, what needs adaptation, and what must be created from scratch. Openness does not override those decisions — it works with them.
+
+### Three ways to build your materials
+
+There are three main approaches you will use when developing your training materials:
+
+- **Reuse** — use an existing resource as it is, because it already fits your learners, context, and outcomes
+- **Adapt** — modify an existing resource to better align with your design decisions
+- **Create** — build something new when no suitable resource exists
+
+You will rarely use only one of these. Most training combines all three. The key is not choosing one approach in advance, but recognising which is appropriate for each part of your training. This lesson introduces these options. In the next lesson, you will evaluate and make decisions.
+
+You will return to this decision throughout Part 2 — not as a one-time choice, but as a recurring pattern across your materials.
+
+### What makes materials usable and adaptable
+
+For any of these approaches to work, materials need to be usable and adaptable. A resource is usable when you — or someone else — can understand how to use it without needing additional explanation. A resource is adaptable when it can be modified without breaking its purpose or structure.
+
+In practice, this means:
+
+- instructions are explicit, not assumed
+- purpose is clear (what and why)
+- context is visible (who it is for, what is needed)
+- structure is modular (parts can be reused independently)
+
+These are not “open” features in themselves. They are indicators of good design. Openness builds on them.
+
 
 !!! tip "Key takeaway"
     You do not need to make everything perfect. You need to make it clear enough that someone else can reuse or adapt it with reasonable effort.
@@ -67,7 +124,11 @@ Every resource carries assumptions — about who will use it, what tools they ha
 
 A slide deck that references "your department's LMS" assumes a specific institutional setup. An activity that asks learners to "open the dataset in R" assumes software access and a baseline of technical skill. A case study set in a European university assumes cultural familiarity that may not transfer to a training in Nairobi or Jakarta.
 
-The assumptions you built into your Part 1 design — about your learners, their context, and their constraints — are the same ones that shape how reusable your materials are. Making those assumptions visible is one of the simplest and most impactful things you can do to support openness. When someone can *see* the assumptions, they can decide whether to accept them, adapt around them, or replace them.
+The assumptions you built into your Part 1 design — about your learners, their context, and their constraints — are the same ones that shape how reusable your materials are. Making those assumptions visible helps you:
+
+- decide whether an existing resource fits your context
+- understand what needs to be adapted
+- make your own materials easier to reuse and apply
 
 Here is a practical method for surfacing assumptions. Take one piece of your training materials and read through it as if you were a colleague who has never seen it before. For each section, ask:
 
@@ -79,13 +140,15 @@ Write these down directly in or alongside your materials. Even a short note — 
 
 ## Trying it with your own materials
 
-Start small. Choose one part of your training — a single activity, a set of slides, or a facilitator guide — and work through these two moves:
+Start small. Choose one part of your training — a single activity, a set of slides, or a facilitator guide — and work through these two tasks:
 
 ### Make one thing clearer
 
-Pick the part of your material that relies most on what you would normally say out loud. Maybe the activity instructions are shorthand that makes sense to you but would confuse someone else. Maybe the purpose of an exercise is obvious when you introduce it verbally but invisible on the page.
+Pick the part of your material that relies most on what you would normally explain verbally.
 
-Rewrite that one section so it could stand alone. Add the missing context: what learners should do, why they are doing it, what the expected output is, and how long it should take. You are not adding complexity — you are making explicit what was already there in your head.
+Rewrite that section so it can stand on its own. Add the missing context: what learners should do, why they are doing it, what the expected output is, and how long it should take.
+
+This improves usability for you, supports learners returning to the material to apply what they learned, and makes adaptation possible.
 
 ### Make one assumption visible
 
@@ -109,7 +172,7 @@ Before you start making decisions about openness and reuse, consolidate what you
 This is the beginning of a workflow you will build across Part 2. In this lesson, focus on Section 0 (Context): identify what you are working on, what outcomes it supports, who it is for, and what conditions it will be used in.
 
 - **what to do:** Choose one part of your training and document its context — what it is, what outcomes it supports, who will use it, and under what conditions
-- **focus sections:** 0 (Context)
+- **focus sections:** 1 (Context)
 - **expected output:** A completed context section for one piece of your training materials
 - **approximate time:** 20–30 minutes
 
@@ -117,12 +180,12 @@ This is the beginning of a workflow you will build across Part 2. In this lesson
 
 You should now have:
 
-- a completed training design snapshot from Activity 13
-- one piece of your training materials reviewed for clarity and independence
-- at least one hidden assumption identified and made visible
-- a completed context section in Activity 14
+- a clear view of how openness connects to your Part 1 design decisions
+- a training design snapshot
+- one part of your materials reviewed for clarity and assumptions
+- an initial sense of where you might reuse, adapt, or need to create materials
 
-These are starting points. In the next lesson, you will find and evaluate existing resources — and make practical decisions about what to reuse, adapt, or create.
+In the next lesson, you will find and evaluate existing resources, and make concrete decisions about how to build your materials.
 
 ## Further reading (optional)
 

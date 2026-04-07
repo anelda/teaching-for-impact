@@ -6,7 +6,7 @@ learning_outcomes:
   - Assess whether resources with different licenses can be combined
 guiding_questions:
   - 'What does "open" actually allow you to do with a resource?'
-  - How do different licenses affect what you can reuse and adapt?
+  - How do different licenses affect whether you can reuse, adapt, or need to create materials?
   - What should you check before combining resources with different licenses?
   - What happens when a resource has no license at all?
 ---
@@ -15,15 +15,18 @@ guiding_questions:
 
 In the previous lesson, you evaluated resources for fit — alignment, clarity, context, adaptability, accessibility, and licensing. You may have noticed that licensing was the one lens where "it depends" was not a satisfying answer. Either you can modify a resource or you cannot. Either you can share your adapted version or you cannot.
 
-This lesson gives you the understanding you need to answer those questions confidently. It is not about becoming a licensing expert. It is about knowing enough to make practical decisions when you encounter a resource you want to use.
+This lesson gives you the understanding you need to answer those questions confidently. It is not about becoming a licensing expert. It is about knowing enough to make practical decisions when you encounter a resource you want to use. You saw in Lesson 1 that access is not the same as permission. Here, you make that distinction operational. You do not need to remember every license detail. You need enough understanding to make confident decisions in practice.
 
 ## Why this matters
+
+Licensing directly affects your decisions from Lesson 2 — especially whether you can adapt a resource or need to find or create an alternative.
 
 Access is not the same as permission. A resource being freely available online — downloadable, viewable, shareable by link — does not mean you are allowed to modify it, combine it with other materials, or redistribute your version. By default, copyright reserves all rights to the creator. Unless a license explicitly grants permission, you are limited to reading and personal use.
 
 Open licenses exist to change that default. They are tools that creators use to say, in advance, "here is what you are allowed to do with my work." Understanding how they work lets you move from hoping a resource is usable to *knowing* what you can do with it.
 
 This matters practically. If you plan to adapt a resource (as most people do), you need to know the license allows adaptation. If you plan to combine two resources into a single workshop, you need to know their licenses are compatible. And if you skip this step, you risk either violating someone's license terms or, more commonly, avoiding useful resources out of unnecessary caution.
+
 
 ## How open licenses work
 
@@ -61,8 +64,6 @@ These four conditions combine into six standard licenses, ranging from most to l
 
 ![Creative Commons license permissions](../assets/images/lesson-visual-aids/creative-commons.jpg)
 
-*Source: [Creative Commons Licenses](https://foter.com/blog/how-to-attribute-creative-commons-photos/#more-4) by Foter ([CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/))*
-
 !!! tip "Key takeaway"
     For training materials, the most useful licenses are **CC BY** and **CC BY-SA** — they allow the adaptation and resharing that make OER practical. Licenses with ND restrictions prevent adaptation entirely, which limits their usefulness for training design.
 
@@ -84,7 +85,7 @@ If you cannot find a license statement after checking these places, treat the re
 
 ## Checking license compatibility
 
-Combining resources with different licenses is where things get tricky. When you pull together materials from multiple sources — a dataset from one, activities from another, explanatory text from a third — their licenses need to work together.
+Licensing is not just a final check — it can change your design decisions by limiting what can be combined or adapted. Combining resources with different licenses is where things get tricky. When you pull together materials from multiple sources — a dataset from one, activities from another, explanatory text from a third — their licenses need to work together.
 
 The core question is: **can the licenses coexist in a single combined work?**
 
@@ -105,6 +106,8 @@ When you encounter a conflict, you have practical options:
 - **Create your own version** inspired by the approach but not derived from the licensed content
 - **Simplify your design** to avoid the combination that creates the conflict
 
+In practice, you will often encounter licensing constraints — expect to adjust your choices rather than finding a perfect combination.
+
 !!! example "Compatibility in practice"
     You are combining a CC BY activity with a CC BY-SA reading. The CC BY material can go into a CC BY-SA combined work (BY is compatible "upward" with BY-SA). Your combined work must be released as CC BY-SA. This is a common and workable combination. But if you also want to add a CC BY-NC resource, you have a conflict: BY-SA and BY-NC-SA are generally not compatible. You would need to replace one resource or keep them as separate materials.
 
@@ -112,10 +115,10 @@ When you encounter a conflict, you have practical options:
 
 👉 Come back to [Activity 14: OER Workflow](../activities/activity_14_oer.md) — check the licensing status of your selected resources
 
-Return to the resources you evaluated in Lesson 2. For each one, identify the license and determine what it allows. Update your decisions in Section 2 if licensing changes what is realistic.
+Return to the resources you evaluated in Lesson 2. For each one, identify the license and determine what it allows. Update your decisions in Section 3 if licensing changes what is realistic.
 
 - **what to do:** Identify the license for each resource you selected. Note what is allowed (reuse, adapt, combine, share). Check whether your chosen resources can work together.
-- **focus sections:** 1 (Find and Evaluate Resources — licensing fields), 2 (Design Decisions — update if needed)
+- **focus sections:** 2 (Find and Evaluate Resources — licensing fields), 3 (Design Decisions — update if needed)
 - **expected output:** Each resource annotated with its license type and what it permits. Updated design decisions where licensing constraints change your plan.
 - **approximate time:** 15–20 minutes
 

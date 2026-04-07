@@ -17,15 +17,19 @@ Your materials are shared. They are out in the world — on a repository, a webs
 
 Now what?
 
-This is the question most OER guidance skips. There is plenty of advice about creating and sharing resources, but surprisingly little about what comes after. In practice, "after sharing" is where the real value of open materials is either realised or lost.
+This is the question most OER guidance skips. There is plenty of advice about creating and sharing resources, but surprisingly little about what comes after. In practice, "after sharing" is where the real value of open materials is either realised or lost. 
+
+This is still part of your design work — deciding what happens to materials over time.
 
 ## Why this matters
 
 Shared materials do not stay useful by default. Over time, links break, tools change, examples become dated, and new contexts expose gaps that the original design did not anticipate. A workshop built around a specific software version becomes misleading when the interface changes. Case studies that were current two years ago may reference policies or data that have since been superseded.
 
-This does not mean every resource needs constant attention. Some materials have a long shelf life; others become outdated quickly. The question is not "should I maintain everything?" but "what level of attention is realistic and worthwhile for this particular resource?"
+Not every resource needs constant attention. Some materials have a long shelf life; others become outdated more quickly. The question is not "should I maintain everything?" but "what level of attention is realistic and worthwhile for this particular resource?"
 
 Getting this right matters because unmaintained materials do not just sit quietly. They continue to be found, used, and relied upon — and when they mislead or confuse, they erode trust in both the resource and in open educational practice more broadly.
+
+Not everything should be open. Some materials include sensitive information, culturally specific knowledge, or context-dependent practices that require careful consideration before sharing.
 
 ## The OER lifecycle
 
@@ -39,8 +43,9 @@ graph LR
     D --> E[Improve]
     E --> B
 ```
+This lifecycle builds on the decisions you made throughout Part 2 — what you chose to reuse, adapt, create, and share.
 
-Each time materials are used in a real context, new information emerges: what works, what confuses, what is missing, what has become outdated. This feedback — whether you actively collect it or simply notice it — is what makes the difference between materials that improve over time and materials that quietly degrade.
+Each time materials are used in a real context, new information emerges: what works, what confuses, what is missing, what has become outdated. This feedback — whether you actively collect it or simply notice it — is what makes the difference between materials that improve over time and materials that quietly degrade. 
 
 Not every resource needs to go through this cycle frequently. Some resources stabilise quickly and need only occasional review. Others, especially those tied to fast-changing tools or contexts, benefit from more active attention. The cycle is a framework for thinking about maintenance, not a requirement for constant revision.
 
@@ -113,10 +118,10 @@ Retiring a resource is not failure — it is honest stewardship. If you archive 
 
 👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md) — plan how you will sustain and improve your materials
 
-Work through Section 5 (Sustainability and Improvement). Define your feedback approach, choose a maintenance level, and set up a simple versioning approach.
+Work through Section 6 (Sustainability and Improvement). Define your feedback approach, choose a maintenance level, and set up a simple versioning approach.
 
 - **what to do:** Define how you will collect feedback, what maintenance level is realistic, and how you will track changes over time
-- **focus sections:** 5 (Sustainability and Improvement)
+- **focus sections:** 6 (Sustainability and Improvement)
 - **expected output:** A sustainability plan covering feedback collection, maintenance level, and versioning approach
 - **approximate time:** 20–30 minutes
 

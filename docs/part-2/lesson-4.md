@@ -15,9 +15,11 @@ guiding_questions:
 
 {% include "lesson_header.md" %}
 
-You have found resources, evaluated their fit, and checked their licenses. Some of what you found is close to what you need — but not quite right. That is normal. Adaptation is the most common way people work with OER, and it is exactly what open licenses are designed to enable.
+You have found resources, evaluated their fit, and checked their licenses. Some of what you found is close to what you need — but not quite right. That is normal. Adaptation is the most common way people work with OER, and it is exactly what open licenses are designed to enable. Some adaptations involve combining multiple sources — what you saw in Lesson 2 as remixing. The same principles apply, but the complexity increases.
 
-This lesson is about making existing resources work in your context. Not wholesale redesign — targeted, purposeful changes that close the gap between what a resource assumes and what your learners actually need.
+This lesson is about making existing resources work in your context through targeted, purposeful changes.
+
+Before adapting, make sure the license allows modification — as you saw in Lesson 3, some licenses (such as ND) prevent adaptation entirely.
 
 ## Why this matters
 
@@ -30,6 +32,8 @@ The risk of skipping this step is real. Resources used without adaptation can co
 The goal is targeted change — enough to make the resource work, documented well enough that others (including your future self) can understand what you changed and why.
 
 ## How adaptation works
+
+Adaptation is the next step after deciding in Lesson 2 to adapt a resource rather than reuse it as-is or create something new.
 
 ### Surfacing assumptions and mismatches
 
@@ -47,7 +51,7 @@ Write these down. You are building a map of what needs to change, and being spec
 
 ### Levels of adaptation
 
-Not all changes are equal. Understanding the level of adaptation you are making helps you gauge the effort required and the risks involved.
+Not all changes are equal. Understanding the level of adaptation you are making helps you gauge the effort required and the risks involved. Structural changes affect how the material is organised and delivered; contextual changes affect what the material is about and how it relates to your learners' reality.
 
 **Surface adaptation** changes the presentation without altering the underlying structure or learning design. This includes updating terminology to match your context, replacing images or formatting, translating text, or adjusting tone and reading level. Surface changes are low-risk and often the first thing to tackle.
 
@@ -56,6 +60,14 @@ Not all changes are equal. Understanding the level of adaptation you are making 
 **Contextual adaptation** changes the underlying goals, assumptions, or conditions. This includes replacing case studies with locally relevant scenarios, substituting tools that are available in your setting, rethinking prerequisite knowledge, or reframing the purpose of an activity for a different professional context. Contextual changes are the deepest and most impactful — they are also where the original resource's design is most likely to need careful rethinking.
 
 Most adaptations involve all three levels. You might update terminology (surface), reorder activities (structural), and replace examples (contextual) in a single pass.
+
+Two common forms of adaptation are worth calling out explicitly:
+
+**Localisation** involves adapting materials to a specific context so they are meaningful and usable for your learners. This often includes changing examples, case studies, language use, references, and tools to reflect local realities. Localisation typically involves a combination of surface, structural, and contextual changes.
+
+**Translation** involves converting materials into another language. While this may begin as a surface-level change, it often requires deeper adaptation — adjusting terminology, simplifying phrasing, or reworking examples to preserve meaning. Direct translation without adaptation can introduce confusion if terms or concepts do not align across contexts.
+
+Localisation and translation are specific forms of adaptation, but not all adaptation involves language change — many adaptations are driven by context, tools, or learning design. In practice, translation and localisation often go together: content is translated into another language while also being adapted to the cultural, institutional, and practical context of your learners.
 
 ### Making adaptation decisions
 
@@ -66,7 +78,7 @@ For each mismatch you identified, decide:
 - **Remove** — it does not serve your outcomes and would create confusion or wasted time
 - **Replace** — the purpose is right but the content needs to be entirely different (a new example, a different tool, an alternative activity format)
 
-These are design decisions under real constraints. You will not have time to adapt everything perfectly, and you should not try. Focus your effort on the changes that make the biggest difference for your learners. A localised example that helps learners connect with the material is worth more than perfect formatting.
+These decisions should reflect both fit and effort — sometimes adapting a resource is more work than creating something simpler from scratch. You will not have time to adapt everything perfectly, and you should not try. Focus your effort on the changes that make the biggest difference for your learners. A localised example that helps learners connect with the material is worth more than perfect formatting. 
 
 ### Accessibility as adaptation
 
@@ -76,12 +88,13 @@ Adaptation is also an opportunity to make materials more accessible than the ori
 - **Simplified language** — If the original uses dense academic prose, can you simplify without losing meaning? This benefits all learners, not just those working in a second language.
 - **Alt text and structure** — If images lack descriptions, add them. If the document lacks proper headings, add structure that supports navigation and screen readers.
 - **Offline usability** — If the original assumes constant internet access, can you make it work offline? Can embedded videos be replaced with text descriptions or downloadable alternatives?
+- **Language accessibility** — If your learners work in a different language, can you translate or simplify the material while preserving meaning?
 
 These changes are not extras — they are part of making the resource genuinely usable in your context.
 
 ## Attribution: crediting what you build on
 
-When you adapt someone else's work, you have both a legal obligation (from the license) and a professional responsibility to credit the original creator. Good attribution is straightforward: it tells the reader where the material came from and what you changed.
+When you adapt someone else's work, you have both a legal obligation (from the license) and a professional responsibility to credit the original creator. Good attribution is straightforward: it tells the reader where the material came from and what you changed. 
 
 ### What to include
 
@@ -92,9 +105,13 @@ A complete attribution has four elements:
 - **Source** — where it can be found (a URL or repository reference)
 - **License** — what license applies to the original
 
+The exact form of attribution may be specified by the license — check whether the creator provides preferred attribution wording.
+
 When you have adapted the material, add a note about what you changed:
 
 > *Adapted from "Introduction to Qualitative Coding" by J. Mwangi, available at [link]. Original licensed under CC BY 4.0. Adapted by [your name]: examples replaced with community health scenarios; exercises restructured for 45-minute sessions; instructions simplified for non-specialist audience.*
+
+This documentation makes it easier for others — and your future self — to understand and build on your version.
 
 ### Where to place attribution
 
@@ -119,10 +136,10 @@ This does not need to be elaborate. A few sentences per significant change is en
 
 👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md) — document your adaptations and their rationale
 
-Work through Section 3 (Adaptation and Localisation Log). For each resource you are adapting, record what you changed, why, and what remains specific to your context.
+Work through Section 4 (Adaptation and Localisation Log). For each resource you are adapting, record what you changed, why, and what remains specific to your context.
 
 - **what to do:** Apply targeted adaptations to at least one resource. Document what you changed, why, and what assumptions you addressed. Include attribution for each adapted resource.
-- **focus sections:** 3 (Adaptation and Localisation Log)
+- **focus sections:** 4 (Adaptation and Localisation Log)
 - **expected output:** An adaptation log with documented changes, reasoning, and attribution for each adapted resource
 - **approximate time:** 20–30 minutes
 
