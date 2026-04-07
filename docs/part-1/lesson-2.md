@@ -1,6 +1,6 @@
 ---
 learning_outcomes:
-  - Articulate a simple theory of change linking activities to outcomes and impact
+  - Create a simple theory of change linking activities to outcomes and impact
   - Analyse how context, power, and positionality influence training design and outcomes
   - Identify key assumptions and risks that may affect the success of your training
 guiding_questions:
@@ -11,20 +11,22 @@ guiding_questions:
 
 {% include "lesson_header.md" %}
 
-In the previous lesson, you mapped the system your training sits within — the actors, resources, constraints, and relationships that will shape whether it succeeds. Now the question is: *how does your training lead to change within that system?*
+In the previous lesson, you mapped the system your training sits within — the actors, resources, constraints, and relationships that will influence it. Now the question is: *how does your training lead to change within that system?*
 
-This lesson helps you articulate the logic of your intended change, surface the assumptions hiding in that logic, and consider how your own position shapes the design.
+This lesson helps you make your intended change explicit, examine the assumptions built into it, and reflect on how your own perspective influences the design.
 
 ## Why this matters
 
-A system map shows you what exists. A Theory of Change articulates what you intend. These are related but distinct thinking moves — and separating them matters. Understanding a system doesn't automatically tell you what change is possible or how training can contribute. You need to make that logic explicit.
+A system map helps you understand the environment your training sits within. A Theory of Change helps you clarify what you want to happen within that environment. The two are closely connected, but they do different kinds of work — and it is important not to blur them.
 
-Hidden assumptions are where training designs quietly fail. If you can't explain *how* your training leads to the change you hope for — step by step, with each link in the chain made visible — then you're designing on faith rather than evidence.
+Seeing how a system is structured does not, on its own, tell you what change is realistic or how training might help bring it about. You still need to set out that logic clearly.
 
-## From system to theory of change
+This matters because training designs often fail at the level of assumption. If you cannot explain, in a clear sequence, how your training is expected to lead to the change you want, then key parts of your design are still implicit. Making those links visible gives you something you can examine, question, and improve, rather than simply hoping the training will have the effect you intend.
+
+## From system to Theory of Change
 
 !!! abstract "Theory of Change"
-    A Theory of Change is a simple, honest account of the logic connecting what you do to the impact you hope for. It makes your assumptions visible — which is exactly the point.
+    A Theory of Change is a clear explanation of how and why your activities are expected to lead to the outcomes and impact you care about. It lays out the steps in that pathway and makes the assumptions behind them visible.
 
 The basic structure looks like this:
 
@@ -37,9 +39,9 @@ flowchart LR
 
 ### Building yours step by step
 
-Start from the right side of the chain, not the left. Begin with the impact you hope to contribute to, then work backwards. This keeps you honest — it's easy to list activities you enjoy delivering, but harder to explain exactly how they lead to real-world change.
+Start from the right side of the chain, not the left. Begin with the impact you hope to contribute to, then work backwards. This keeps your logic clear — it’s easy to list activities you enjoy delivering, but harder to explain exactly how they lead to real-world change.
 
-For each link in the chain, ask: *What has to be true for this step to lead to the next?* Those are your assumptions. Write them down. For example, if your chain says "participants learn data analysis skills → they apply those skills at work," you're assuming they have access to relevant data, that their managers support new approaches, that they are motivated to apply the skills, and that they have time to practice. Each assumption is a potential point of failure.
+For each link in the chain, ask: *What needs to be in place for this step to lead to the next?* These are your assumptions. Write them down. For example, if your chain says "participants learn data analysis skills → they apply those skills at work," you're assuming they have access to relevant data, that their managers support new approaches, that they are motivated to apply the skills, and that they have time to practice. Each assumption is a potential point of failure — and an opportunity to strengthen your design or adjust your expectations.
 
 !!! example "A Theory of Change in action"
     An NGO runs a three-day training on data collection methods for community health workers in rural clinics. Their chain: 
@@ -91,12 +93,14 @@ You should now have:
 
 ## Further reading (optional)
 
-- Weiss, C. (1995) — *Nothing as Practical as Good Theory: Exploring Theory-Based Evaluation for Comprehensive Community Initiatives*
-  → Supports: Theory of Change linking activities to outcomes and impact
-  → Why it matters: explains how making assumptions explicit improves programme design and evaluation
-  → Source: [https://www.jstor.org/stable/j.ctt9qg56k](https://www.jstor.org/stable/j.ctt9qg56k)
+- Better Evaluation Knowledge Platform — *Develop theory of change / programme theory*
+
+    - Supports: Theory of Change linking activities to outcomes and impact
+    - Why it matters: explains how making assumptions explicit improves programme design and evaluation
+    - Source: [https://www.betterevaluation.org/frameworks-guides/rainbow-framework/define/develop-programme-theory-theory-change](https://www.betterevaluation.org/frameworks-guides/rainbow-framework/define/develop-programme-theory-theory-change)
 
 - Freire, P. (1970) — *Pedagogy of the Oppressed*
-  → Supports: positionality, power, and the non-neutrality of education
-  → Why it matters: highlights how power relations shape participation and knowledge in learning environments
-  → Source: [https://www.penguinrandomhouse.com/books/112874/pedagogy-of-the-oppressed-by-paulo-freire/](https://www.penguinrandomhouse.com/books/112874/pedagogy-of-the-oppressed-by-paulo-freire/)
+
+    - Supports: positionality, power, and the non-neutrality of education
+    - Why it matters: highlights how power relations shape participation and knowledge in learning environments
+    - Source: [https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf](https://files.libcom.org/files/Paulo%20Freire,%20Myra%20Bergman%20Ramos,%20Donaldo%20Macedo%20-%20Pedagogy%20of%20the%20Oppressed,%2030th%20Anniversary%20Edition%20(2000,%20Bloomsbury%20Academic).pdf)

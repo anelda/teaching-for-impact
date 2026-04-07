@@ -47,13 +47,13 @@ List at least five actors. Push further: Who influences your learners *after* th
 What does your training depend on, and where are the gaps? For each resource, note:
 
 - **Resource:** What is it?
-- **Available?** Fully, partially, or not at all.
+- **Availability:** Fully, partially, or not at all.
 - **Constraint or gap:** What limitation does this create?
 
 For example:
 
-- **Resource:** Reliable internet — **Available?** Partially (not in all training venues) — **Constraint:** Limits use of cloud-based tools
-- **Resource:** Time for practice — **Available?** No (sessions are back-to-back) — **Constraint:** Learners can't apply skills during training
+- **Resource:** Reliable internet — **Availability:** Partially (not in all training venues) — **Constraint:** Limits use of cloud-based tools
+- **Resource:** Time for practice — **Availability:** No (sessions are back-to-back) — **Constraint:** Learners can't apply skills during training
 
 Include material resources (funding, tools, venues), time, expertise, and institutional support.
 

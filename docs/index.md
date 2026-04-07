@@ -3,12 +3,12 @@
 ## Project team
 
 ### Talarify
-Anelda van der Walt 
+**Anelda van der Walt**
 
 [Talarify](https://talarify.co.za) is a South African consulting and training organisation specialising in capacity and community development in Open Science and Digital and Computational Research.
 
 ### Prelude
-Sheena O'Connell
+**Sheena O'Connell**
 
 [Prelude](https://prelude.tech/) is a South African consulting and training organisation specialising in professional skills development in Python, Teamwork and Education. Prelude also builds edTech products.
 
@@ -154,4 +154,4 @@ This workbook and training were inspired by the [Instructor Training material](h
 
 ## AI Usage
 
-Generative AI tools were used extensively to support drafting, restructuring, and refining content throughout this workbook. The author defined the overall structure, pedagogical approach, and conceptual framing, and iteratively guided and edited all AI-generated content.
+Generative AI tools were used extensively to support drafting, restructuring, and refining content throughout this workbook. The authors defined the overall structure, pedagogical approach, and conceptual framing, and iteratively guided and edited all AI-generated content.

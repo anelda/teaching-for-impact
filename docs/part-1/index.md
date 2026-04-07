@@ -11,23 +11,22 @@ In Part 1, you design your training as a system:
 
 This work helps you move from:
 
-- "What should I teach?"
-to
-- "What change should this training support, and how will I design for it?"
+>  _"What should I teach?"_
+>
+> to
+>
+> _"What change should this training support, and how will I design for it?"_
 
 By the end of this part, you will have a **coherent, context-aware training design** that you can run in practice.
 
-But a strong design is not enough.
+To increase the reach and usefulness of your work, you can go a step further by:
 
-If your training:
+- creating resources you can return to, refine, and build on over time
+- shaping your materials so they can be understood and used by others
+- structuring them so they can be adapted to different contexts
+- documenting them in ways that support reuse and ongoing improvement
 
-- only works when you are present
-- cannot be reused without redesign
-- cannot be adapted to new contexts
-
-then its impact remains limited.
-
-👉 **Part 2 builds on this design and focuses on making it usable beyond a single delivery.**
+👉 **Part 2 builds on this and focuses on developing your training into open educational resources (OER) that can be shared, adapted, and sustained.**
 
 ## Lessons in this part
 

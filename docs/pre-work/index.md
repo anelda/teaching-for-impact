@@ -1,7 +1,7 @@
 
-Before the workshop begins, there are a few things to do so you can hit the ground running. None of this should take long — it's about arriving with something real to work with, not about getting ahead on theory.
+A small amount of upfront preparation will help you make better use of the workshop time. None of this should take long — it's about arriving with something real to work with, not about getting ahead on theory.
 
-Everything in the workshop is hands-on. You'll be designing, adapting, and refining training for a specific context — your own. The activities work best when you come in with a concrete training project in mind and some familiarity with the workbook content.
+Everything in the workshop is hands-on. You'll be designing, adapting, and refining training for a specific context. The activities work best when you come in with a concrete training project in mind and some familiarity with this workbook content.
 
 !!! tip "Don't aim for perfect"
 
@@ -26,7 +26,7 @@ Think about the bigger picture behind your training. If everything goes well —
 
 This isn't about writing a perfect impact statement. It's about having a direction. When you know what long-term change you're aiming for, it becomes much easier to decide what belongs in your training and what doesn't.
 
-Jot down a sentence or two. You'll refine this during the workshop.
+Write down a sentence or two. You'll refine this during the workshop.
 
 ### 3. Think about at least one outcome that will contribute to the above
 
@@ -42,7 +42,7 @@ For at least one of your outcomes, think about an activity or exercise that woul
 
 Do a bit of research to find resources that support your outcomes — things your learners could read, watch, or work through. For example, if you want people to be able to apply a skill, you might find a resource that builds their foundational understanding first.
 
-While you're at it, check whether those resources have any licences or restrictions around re-use, adaptation, or commercial use. This will matter if you actually want to use those materials.
+While you're at it, check whether those resources have any licences or restrictions around re-use, adaptation, or commercial use. This will matter if you actually want to use those materials. If you don't have any experience with licenses, don't worry! We will be working through some basics in this workbook.
 
 ### 6. Bring something you've made
 
