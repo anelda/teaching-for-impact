@@ -118,16 +118,16 @@ You should now have:
 ## Further reading (optional)
 
 - Sanders, E., & Stappers, P. (2008) — *Co-creation and the New Landscapes of Design*
-  → Supports: co-design principles and participant involvement
-  → Why it matters: explains how involving stakeholders improves relevance and outcomes
-  → Source: [https://doi.org/10.1080/15710880701875068](https://doi.org/10.1080/15710880701875068)
+    - Supports: co-design principles and participant involvement
+    - Why it matters: explains how involving stakeholders improves relevance and outcomes
+    - Source: [https://doi.org/10.1080/15710880701875068](https://doi.org/10.1080/15710880701875068)
 
 - IDEO.org (2015) — *The Field Guide to Human-Centered Design*
-  → Supports: designing with participants under real-world constraints
-  → Why it matters: provides practical methods for participatory design in constrained contexts
-  → Source: [https://www.designkit.org/resources/1](https://www.designkit.org/resources/1)
+    - Supports: designing with participants under real-world constraints
+    - Why it matters: provides practical methods for participatory design in constrained contexts
+    - Source: [https://design-kit-production.s3.us-west-1.amazonaws.com/Field_Guides/Field+Guide+to+Human-Centered+Design_IDEOorg_English.pdf?utf8=%E2%9C%93&_method=patch&authenticity_token=QZRbnzBBPY3M%2FCd3xeDx424iAXgVkgcTAi74f6cW4pU%3D&resource%5Btitle%5D=&resource%5Bsubtitle%5D=&resource%5Bauthor%5D=&resource%5Babout%5D=](https://design-kit-production.s3.us-west-1.amazonaws.com/Field_Guides/Field+Guide+to+Human-Centered+Design_IDEOorg_English.pdf?utf8=%E2%9C%93&_method=patch&authenticity_token=QZRbnzBBPY3M%2FCd3xeDx424iAXgVkgcTAi74f6cW4pU%3D&resource%5Btitle%5D=&resource%5Bsubtitle%5D=&resource%5Bauthor%5D=&resource%5Babout%5D=)
 
 - Chambers, R. (1994) — *Participatory Rural Appraisal (PRA): Challenges, Potentials and Paradigm*
-  → Supports: ethical participation and avoiding extractive practices
-  → Why it matters: offers Global South-informed approaches to inclusive and participatory design
-  → Source: [https://doi.org/10.1016/0305-750X(94)90030-2](https://doi.org/10.1016/0305-750X(94)90030-2)
+    - Supports: ethical participation and avoiding extractive practices
+    - Why it matters: offers Global South-informed approaches to inclusive and participatory design
+    - Source: [https://doi.org/10.1016/0305-750X(94)90030-2](https://doi.org/10.1016/0305-750X(94)90030-2)

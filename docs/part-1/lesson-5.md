@@ -132,17 +132,17 @@ You should now have:
 
 ## Further reading (optional)
 
-- Wiggins, G., & McTighe, J. (2005) — *Understanding by Design*
-  → Supports: backward design (outcomes → evidence → activities)
-  → Why it matters: the foundational text on designing from outcomes rather than content
-  → Source: [https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition-9781416600350](https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition-9781416600350)
-
-- Biggs, J., & Tang, C. (2011) — *Teaching for Quality Learning at University*
-  → Supports: constructive alignment between outcomes, activities, and assessment
-  → Why it matters: provides a widely used framework for aligning teaching design decisions
-  → Source: [https://www.mheducation.com/highered/product/teaching-quality-learning-university-biggs/M9780335242757.html](https://www.mheducation.com/highered/product/teaching-quality-learning-university-biggs/M9780335242757.html)
+- Wiggins, G. & McTighe, J. (2005) — *Understanding by design (2nd edition)*
+    - Supports: backward design, alignment between learning outcomes, assessment, and learning activities
+    - Why it matters: provides a clear, practical framework for designing training that starts with what learners should be able to do and ensures all parts of the training support that goal
+    - Source: [https://andymatuschak.org/files/papers/Wiggins,%20McTighe%20-%202005%20-%20Understanding%20by%20design.pdf](https://andymatuschak.org/files/papers/Wiggins,%20McTighe%20-%202005%20-%20Understanding%20by%20design.pdf)
 
 - Hussey, T., & Smith, P. (2002) — *The Trouble with Learning Outcomes*
-  → Supports: the limits of rigid outcome specification and the importance of emergence in learning
-  → Why it matters: a counterweight to over-reliance on predefined outcomes — argues that good teaching requires flexibility
-  → Source: [https://doi.org/10.1080/13562510220124668](https://doi.org/10.1080/13562510220124668)
+  - Supports: the limits of rigid outcome specification and the importance of emergence in learning
+  - Why it matters: a counterweight to over-reliance on predefined outcomes — argues that good teaching requires flexibility
+  - Source: [https://journals.sagepub.com/doi/10.1177/1469787402003003003](https://journals.sagepub.com/doi/10.1177/1469787402003003003)
+
+  - MIT Teaching + Learning Lab — *Backward Design*
+    - Supports: starting with learning outcomes, aligning outcomes with activities, and designing for learning rather than content coverage
+    - Why it matters: reinforces a practical, learner-centred approach where outcomes drive the design of teaching, helping ensure that sessions focus on what learners will be able to do rather than what is simply taught
+    - Source: [https://tll.mit.edu/teaching-resources/course-design/backward-design/](https://tll.mit.edu/teaching-resources/course-design/backward-design/)

@@ -152,11 +152,11 @@ In the next lesson, you will plan how to sustain and improve your materials over
 ## Further reading (optional)
 
 - UNESCO (2019) — *Recommendation on Open Educational Resources*
-  → Supports: sharing, access, and platform strategies for OER
-  → Why it matters: defines international principles for making resources widely available, including guidance on formats, platforms, and policies
-  → Source: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer
+    - Supports: sharing, access, and platform strategies for OER
+    - Why it matters: defines international principles for making resources widely available, including guidance on formats, platforms, and policies
+    - Source: [https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer)
 
 - Atenas, J., & Havemann, L. (2014) — *Questions of quality in repositories of open educational resources*
-  → Supports: discoverability and platform choice
-  → Why it matters: examines what makes OER repositories effective, including metadata, quality indicators, and user experience
-  → Source: https://www.irrodl.org/index.php/irrodl/article/view/2083
+    - Supports: discoverability and platform choice
+    - Why it matters: examines what makes OER repositories effective, including metadata, quality indicators, and user experience
+    - Source: [https://journal.alt.ac.uk/index.php/rlt/article/view/1419](https://journal.alt.ac.uk/index.php/rlt/article/view/1419)

@@ -111,12 +111,12 @@ You should now have:
 
 ## Further reading (optional)
 
-- Knowles, M., Holton, E., & Swanson, R. (2015) — *The Adult Learner*
-  → Supports: understanding learner needs, prior knowledge, and self-directed learning
-  → Why it matters: provides foundational principles for designing training aligned with adult learners' realities
-  → Source: [https://www.routledge.com/The-Adult-Learner-The-Definitive-Classic-in-Adult-Education-and-Human/Knowles-Holton-Swanson/p/book/9781138209398](https://www.routledge.com/The-Adult-Learner-The-Definitive-Classic-in-Adult-Education-and-Human/Knowles-Holton-Swanson/p/book/9781138209398)
+- Knowles, M. (2025) — *The Adult Learning Theory – Andragogy of Malcolm Knowles*  
+    - Supports: adult learners as self-directed, experience-based, and motivated by relevance and real-world application  
+    - Why it matters: explains why training should build on learners’ prior knowledge, connect to real problems, and give learners agency — directly reinforcing the need to design around learner realities rather than content  
+    - Source: [https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles](https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles)
 
-- Kolb, D. (1984) — *Experiential Learning: Experience as the Source of Learning and Development*
-  → Supports: connecting learning to lived experience and prior knowledge
-  → Why it matters: explains how experience shapes learning and informs participatory training design
-  → Source: [https://www.pearson.com/en-us/subject-catalog/p/experiential-learning-experience-as-the-source-of-learning-and-development/P200000003495/9780132952613](https://www.pearson.com/en-us/subject-catalog/p/experiential-learning-experience-as-the-source-of-learning-and-development/P200000003495/9780132952613)
+- EdTech Books — *Conducting a Learner Analysis*  
+    - Supports: identifying learner characteristics such as prior knowledge, motivation, demographics, and contextual factors to inform instructional design  
+    - Why it matters: shows how understanding learners’ backgrounds, goals, and constraints enables more relevant, effective training design and better alignment with learner needs and contexts  
+    - Source: [https://edtechbooks.org/id/learner_analysis](https://edtechbooks.org/id/learner_analysis)

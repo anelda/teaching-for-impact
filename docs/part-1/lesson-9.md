@@ -114,16 +114,11 @@ You should now have:
 ## Further reading (optional)
 
 - Black, P., & Wiliam, D. (1998) — *Assessment and Classroom Learning*
-  → Supports: formative assessment aligned with learning outcomes
-  → Why it matters: foundational research showing how assessment for learning improves understanding and performance
-  → Source: [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
-
-- Wiggins, G. (1998) — *Educative Assessment: Designing Assessments to Inform and Improve Student Performance*
-  → Supports: designing assessment that serves learning rather than just measurement
-  → Why it matters: argues that assessment should be a learning experience in itself, not just a check at the end
-  → Source: Jossey-Bass
+    - Supports: formative assessment aligned with learning outcomes
+    - Why it matters: foundational research showing how assessment for learning improves understanding and performance
+    - Source: [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
 
 - Boud, D. (2000) — *Sustainable Assessment: Rethinking Assessment for the Learning Society*
-  → Supports: assessment that develops learners' own capacity to judge their work
-  → Why it matters: challenges over-reliance on external judgement and proposes assessment that builds learner autonomy
-  → Source: [https://doi.org/10.1080/03075070050025488](https://doi.org/10.1080/03075070050025488)
+    - Supports: assessment that develops learners' own capacity to judge their work
+    - Why it matters: challenges over-reliance on external judgement and proposes assessment that builds learner autonomy
+    - Source: [https://www.tandfonline.com/doi/abs/10.1080/713695728](https://www.tandfonline.com/doi/abs/10.1080/713695728)

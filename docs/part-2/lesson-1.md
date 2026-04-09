@@ -190,16 +190,16 @@ In the next lesson, you will find and evaluate existing resources, and make conc
 ## Further reading (optional)
 
 - Wiley, D. (2014) — *The Access Compromise and the 5th R*
-  → Supports: reuse and adaptation in open education
-  → Why it matters: explains how openness enables meaningful reuse through the 5Rs framework (retain, reuse, revise, remix, redistribute)
-  → Source: https://opencontent.org/blog/archives/3221
+    - Supports: reuse and adaptation in open education
+    - Why it matters: explains how openness enables meaningful reuse through the 5Rs framework (retain, reuse, revise, remix, redistribute)
+    - Source: [https://opencontent.org/blog/archives/3221](https://opencontent.org/blog/archives/3221)
 
 - UNESCO (2019) — *Recommendation on Open Educational Resources*
-  → Supports: openness and reuse principles
-  → Why it matters: defines international principles for making educational materials accessible and adaptable
-  → Source: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer
+    - Supports: openness and reuse principles
+    - Why it matters: defines international principles for making educational materials accessible and adaptable
+    - Source: [https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer)
 
 - Cronin, C. (2017) — *Openness and praxis: Exploring the use of open educational practices in higher education*
-  → Supports: openness as a deliberate design practice
-  → Why it matters: examines how educators move from using open resources to adopting open practices — the shift this lesson introduces
-  → Source: https://doi.org/10.19173/irrodl.v18i5.3096
+    - Supports: openness as a deliberate design practice
+    - Why it matters: examines how educators move from using open resources to adopting open practices — the shift this lesson introduces
+    - Source: [https://doi.org/10.19173/irrodl.v18i5.3096](https://doi.org/10.19173/irrodl.v18i5.3096)

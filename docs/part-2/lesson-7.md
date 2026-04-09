@@ -139,11 +139,11 @@ These plans are working documents. Adjust them as your materials are used and as
 ## Further reading (optional)
 
 - Wiley, D., & Hilton, J. (2018) — *Defining OER-enabled pedagogy*
-  → Supports: iterative improvement through open practice
-  → Why it matters: connects openness to continuous improvement, arguing that the value of OER comes through use and adaptation, not just publication
-  → Source: https://opencontent.org/blog/archives/5009
+    - Supports: iterative improvement through open practice
+    - Why it matters: connects openness to continuous improvement, arguing that the value of OER comes through use and adaptation, not just publication
+    - Source: [https://opencontent.org/blog/archives/5009](https://opencontent.org/blog/archives/5009)
 
 - Atenas, J., Havemann, L., & Timmermann, C. (2020) — *Critical literacies for open educational practices*
-  → Supports: reflective, sustainable engagement with OER
-  → Why it matters: highlights that sustaining open materials requires ongoing critical reflection about context, power, and purpose
-  → Source: https://doi.org/10.5334/jime.576
+    - Supports: reflective, sustainable engagement with OER
+    - Why it matters: highlights that sustaining open materials requires ongoing critical reflection about context, power, and purpose
+    - Source: [https://discovery.ucl.ac.uk/id/eprint/10112045/](https://discovery.ucl.ac.uk/id/eprint/10112045/)

@@ -132,16 +132,16 @@ You should now have:
 ## Further reading (optional)
 
 - Prince, M. (2004) — *Does Active Learning Work? A Review of the Research*
-  → Supports: active learning and participation in training design
-  → Why it matters: provides evidence that active engagement improves learning outcomes
-  → Source: [https://doi.org/10.1002/j.2168-9830.2004.tb00809.x](https://doi.org/10.1002/j.2168-9830.2004.tb00809.x)
+    - Supports: active learning and participation in training design
+    - Why it matters: provides evidence that active engagement improves learning outcomes
+    - Source: [https://doi.org/10.1002/j.2168-9830.2004.tb00809.x](https://doi.org/10.1002/j.2168-9830.2004.tb00809.x)
 
 - Vygotsky, L. (1978) — *Mind in Society: The Development of Higher Psychological Processes*
-  → Supports: scaffolding and social dimensions of learning
-  → Why it matters: explains how guided support enables learners to progress toward independence
-  → Source: [https://www.hup.harvard.edu/books/9780674576292](https://www.hup.harvard.edu/books/9780674576292)
+    - Supports: scaffolding and social dimensions of learning
+    - Why it matters: explains how guided support enables learners to progress toward independence
+    - Source: [https://www.hup.harvard.edu/books/9780674576292](https://www.hup.harvard.edu/books/9780674576292)
 
 - Ambrose, S., Bridges, M., DiPietro, M., Lovett, M., & Norman, M. (2010) — *How Learning Works: Seven Research-Based Principles for Smart Teaching*
-  → Supports: structuring activities and supporting effective participation
-  → Why it matters: translates learning science into practical guidance for designing effective activities
-  → Source: [https://www.wiley.com/en-us/How+Learning+Works%3A+Seven+Research-Based+Principles+for+Smart+Teaching-p-9780470484104](https://www.wiley.com/en-us/How+Learning+Works%3A+Seven+Research-Based+Principles+for+Smart+Teaching-p-9780470484104)
+    - Supports: structuring activities and supporting effective participation
+    - Why it matters: translates learning science into practical guidance for designing effective activities
+    - Source: [https://firstliteracy.org/wp-content/uploads/2015/07/How-Learning-Works.pdf](https://firstliteracy.org/wp-content/uploads/2015/07/How-Learning-Works.pdf)

@@ -145,16 +145,16 @@ In the next lesson, you will prepare all your materials — adapted and created 
 ## Further reading (optional)
 
 - Bali, M., Cronin, C., & Jhangiani, R. S. (2020) — *Framing open educational practices from a social justice perspective*
-  → Supports: understanding why creation is necessary in underrepresented contexts
-  → Why it matters: argues that OER creation — not just adoption — is essential for equitable representation in educational materials
-  → Source: https://doi.org/10.1007/s11423-020-09752-2
+    - Supports: understanding why creation is necessary in underrepresented contexts
+    - Why it matters: argues that OER creation — not just adoption — is essential for equitable representation in educational materials
+    - Source: [https://jime.open.ac.uk/articles/10.5334/jime.565](https://jime.open.ac.uk/articles/10.5334/jime.565)
 
 - UNESCO (2019) — *Recommendation on Open Educational Resources*
-  → Supports: principles for creating accessible, inclusive open materials
-  → Why it matters: defines international standards for OER creation that prioritise access, equity, and quality
-  → Source: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer
+    - Supports: principles for creating accessible, inclusive open materials
+    - Why it matters: defines international standards for OER creation that prioritise access, equity, and quality
+    - Source: [https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer)
 
 - Ossiansson, E. (2018) — *OER awareness and use: The affinity between higher education and K-12*
-  → Supports: OER creation practices and design for reuse
-  → Why it matters: provides evidence on how OER creators can design materials that are actually adopted and adapted by others
-  → Source: https://doi.org/10.19173/irrodl.v19i2.3431
+    - Supports: OER creation practices and design for reuse
+    - Why it matters: provides evidence on how OER creators can design materials that are actually adopted and adapted by others
+    - Source: [https://doi.org/10.19173/irrodl.v19i2.3431](https://doi.org/10.19173/irrodl.v19i2.3431)

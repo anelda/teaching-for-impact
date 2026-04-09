@@ -117,16 +117,12 @@ You should now have:
 ## Further reading (optional)
 
 - Hattie, J., & Timperley, H. (2007) — *The Power of Feedback*
-  → Supports: designing feedback that is specific, timely, and actionable
-  → Why it matters: demonstrates how feedback significantly improves learning when it guides next steps
-  → Source: [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
+    - Supports: designing feedback that is specific, timely, and actionable
+    - Why it matters: demonstrates how feedback significantly improves learning when it guides next steps
+    - Source: [https://simvilledev.ku.edu/sites/default/files/PD%20Resources/Hattie%20power%20of%20feedback%5B1%5D.pdf](https://simvilledev.ku.edu/sites/default/files/PD%20Resources/Hattie%20power%20of%20feedback%5B1%5D.pdf)
 
-- Ericsson, K. A. (2006) — *The Influence of Experience and Deliberate Practice on the Development of Superior Expert Performance*
-  → Supports: meaningful, outcome-aligned practice and skill development
-  → Why it matters: explains how structured practice leads to improved performance and expertise
-  → Source: [https://doi.org/10.1017/CBO9780511816796.003](https://doi.org/10.1017/CBO9780511816796.003)
 
 - Nicol, D., & Macfarlane-Dick, D. (2006) — *Formative Assessment and Self-Regulated Learning*
-  → Supports: integrating feedback, self-regulation, and iterative improvement
-  → Why it matters: provides principles for designing feedback that supports learner improvement
-  → Source: [https://doi.org/10.1080/03075070600572090](https://doi.org/10.1080/03075070600572090)
+    - Supports: integrating feedback, self-regulation, and iterative improvement
+    - Why it matters: provides principles for designing feedback that supports learner improvement
+    - Source: [https://doi.org/10.1080/03075070600572090](https://doi.org/10.1080/03075070600572090)

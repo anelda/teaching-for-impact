@@ -136,11 +136,11 @@ In the next lesson, you will start adapting resources for your context — inclu
 ## Further reading (optional)
 
 - Creative Commons (n.d.) — *About The Licenses*
-  → Supports: understanding license types and permissions
-  → Why it matters: the authoritative source on how CC licenses work, with clear explanations of each element and combination
-  → Source: https://creativecommons.org/licenses/
+    - Supports: understanding license types and permissions
+    - Why it matters: the authoritative source on how CC licenses work, with clear explanations of each element and combination
+    - Source: [https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
 
 - Wiley, D. (2014) — *The Access Compromise and the 5th R*
-  → Supports: the relationship between licensing and meaningful reuse
-  → Why it matters: explains why permission to revise and remix (not just access) is essential for open education
-  → Source: https://opencontent.org/blog/archives/3221
+    - Supports: the relationship between licensing and meaningful reuse
+    - Why it matters: explains why permission to revise and remix (not just access) is essential for open education
+    - Source: [https://opencontent.org/blog/archives/3221](https://opencontent.org/blog/archives/3221)

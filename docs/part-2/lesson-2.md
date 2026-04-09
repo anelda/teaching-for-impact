@@ -133,16 +133,16 @@ These decisions are not final. You will revisit them as you learn about licensin
 ## Further reading (optional)
 
 - Hilton, J. (2016) — *Open educational resources and college textbook choices*
-  → Supports: evidence for OER effectiveness and adoption
-  → Why it matters: provides empirical evidence that OER can match or exceed the effectiveness of traditional resources
-  → Source: https://www.tandfonline.com/doi/full/10.1080/00221546.2016.1178814
+    - Supports: evidence for OER effectiveness and adoption
+    - Why it matters: provides empirical evidence that OER can match or exceed the effectiveness of traditional resources
+    - Source: [https://link.springer.com/article/10.1007/s11423-016-9434-9](https://link.springer.com/article/10.1007/s11423-016-9434-9)
 
 - Wiley, D. (2014) — *The Access Compromise and the 5th R*
-  → Supports: reuse and permissions in open education
-  → Why it matters: explains how the 5Rs framework (retain, reuse, revise, remix, redistribute) enables meaningful adaptation
-  → Source: https://opencontent.org/blog/archives/3221
+    - Supports: reuse and permissions in open education
+    - Why it matters: explains how the 5Rs framework (retain, reuse, revise, remix, redistribute) enables meaningful adaptation
+    - Source: [https://opencontent.org/blog/archives/3221](https://opencontent.org/blog/archives/3221)
 
 - Hodgkinson-Williams, C., & Trotter, H. (2018) — *A social justice framework for understanding OER adoption*
-  → Supports: contextual evaluation of OER
-  → Why it matters: highlights how social and economic context shapes whether a resource is truly accessible and usable
-  → Source: https://doi.org/10.5334/jime.521
+    - Supports: contextual evaluation of OER
+    - Why it matters: highlights how social and economic context shapes whether a resource is truly accessible and usable
+    - Source: [https://jl4d.org/index.php/ejl4d/article/view/312](https://jl4d.org/index.php/ejl4d/article/view/312)

@@ -122,21 +122,16 @@ You should now have:
 ## Further reading (optional)
 
 - Sweller, J. (1988) — *Cognitive Load During Problem Solving: Effects on Learning*
-  → Supports: cognitive load theory — the distinction between intrinsic and extraneous load
-  → Why it matters: the foundational research on why managing working memory matters for learning design
-  → Source: [https://doi.org/10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)
+    - Supports: cognitive load theory — the distinction between intrinsic and extraneous load
+    - Why it matters: the foundational research on why managing working memory matters for learning design
+    - Source: [https://doi.org/10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)
 
 - Brown, P., Roediger, H., & McDaniel, M. (2014) — *Make It Stick: The Science of Successful Learning*
-  → Supports: retrieval practice, spacing, and the value of desirable difficulties
-  → Why it matters: accessible synthesis of evidence on why effortful learning beats easy learning
-  → Source: [https://www.hup.harvard.edu/books/9780674729018](https://www.hup.harvard.edu/books/9780674729018)
+    - Supports: retrieval practice, spacing, and the value of desirable difficulties
+    - Why it matters: accessible synthesis of evidence on why effortful learning beats easy learning
+    - Source: [https://www.hup.harvard.edu/books/9780674729018](https://www.hup.harvard.edu/books/9780674729018)
 
 - Bjork, R. A. (1994) — *Memory and Metamemory Considerations in the Training of Human Beings*
-  → Supports: the concept of "desirable difficulties" — why making learning harder can make it more durable
-  → Why it matters: directly addresses why comfort and fluency during training can be misleading signals
-  → Source: [https://bjorklab.psych.ucla.edu/research/](https://bjorklab.psych.ucla.edu/research/)
-
-- Bandura, A. (1977) — *Social Learning Theory*
-  → Supports: social learning through observation and interaction
-  → Why it matters: explains how collaboration and modelling support learning processes
-  → Source: [https://psycnet.apa.org/record/1977-25733-000](https://psycnet.apa.org/record/1977-25733-000)
+    - Supports: the concept of "desirable difficulties" — why making learning harder can make it more durable
+    - Why it matters: directly addresses why comfort and fluency during training can be misleading signals
+    - Source: [https://bjorklab.psych.ucla.edu/research/](https://bjorklab.psych.ucla.edu/research/)

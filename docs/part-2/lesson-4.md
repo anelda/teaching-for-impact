@@ -165,11 +165,11 @@ If adaptation was not the right choice for all your materials — if some gaps n
 ## Further reading (optional)
 
 - Hodgkinson-Williams, C., & Trotter, H. (2018) — *A social justice framework for understanding OER adoption*
-  → Supports: contextual adaptation and equity in OER
-  → Why it matters: highlights how power, context, and access shape what "adaptation" means in practice across different settings
-  → Source: https://doi.org/10.5334/jime.521
+    - Supports: contextual adaptation and equity in OER
+    - Why it matters: highlights how power, context, and access shape what "adaptation" means in practice across different settings
+    - Source: [https://jl4d.org/index.php/ejl4d/article/view/312](https://jl4d.org/index.php/ejl4d/article/view/312)
 
 - Amiel, T. (2013) — *Identifying barriers to the remix of translated open educational resources*
-  → Supports: practical challenges in adapting and localising OER
-  → Why it matters: examines the real barriers — format, language, cultural context — that make adaptation difficult, and how to design around them
-  → Source: https://doi.org/10.19173/irrodl.v14i1.1351
+    - Supports: practical challenges in adapting and localising OER
+    - Why it matters: examines the real barriers — format, language, cultural context — that make adaptation difficult, and how to design around them
+    - Source: https://doi.org/10.19173/irrodl.v14i1.1351
