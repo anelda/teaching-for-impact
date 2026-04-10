@@ -90,7 +90,6 @@ You should now have:
 ## Further reading (optional)
 
 - Meadows, D. (2008) — *Thinking in Systems: A Primer*
-
     - Supports: systems thinking and understanding training as part of a broader system
     - Why it matters: provides practical tools for mapping actors, constraints, and system dynamics — directly applicable to the system mapping method in this lesson
     - Source: [https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf)
