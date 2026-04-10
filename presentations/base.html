@@ -26,6 +26,27 @@
   <script src="reveal/plugin/notes/notes.js"></script>
   <script src="presentation.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-  <script>mermaid.initialize({ startOnLoad: true, theme: 'default' });</script>
+  <script>
+    mermaid.initialize({ startOnLoad: false, theme: 'default' });
+
+    function renderMermaidOnSlide(slide) {
+      var diagrams = slide.querySelectorAll('.mermaid:not([data-processed])');
+      if (diagrams.length) {
+        mermaid.run({ nodes: diagrams });
+      }
+    }
+
+    if (Reveal.isReady()) {
+      renderMermaidOnSlide(Reveal.getCurrentSlide());
+    } else {
+      Reveal.on('ready', function () {
+        renderMermaidOnSlide(Reveal.getCurrentSlide());
+      });
+    }
+
+    Reveal.on('slidechanged', function (event) {
+      renderMermaidOnSlide(event.currentSlide);
+    });
+  </script>
 </body>
 </html>
