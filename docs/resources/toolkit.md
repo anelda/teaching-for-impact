@@ -64,18 +64,8 @@ If you are facing a specific challenge, start here:
 
 ## Designing for overlapping constraints
 
-### When this matters
-- participants experience multiple constraints at the same time
-- a solution that works for one constraint does not work when combined with others
-- barriers reinforce each other rather than appearing separately
-
-### What this affects
-- who can participate fully
-- who benefits from the training
-- whether learning translates into action
-- whether training feels accessible, relevant, and usable
-
 ### Practical strategies
+
 - identify 2–3 key constraints that overlap for your participants
 - combine strategies from multiple sections instead of applying them in isolation
 - prioritise participants facing the most barriers when making design decisions
@@ -85,36 +75,43 @@ If you are facing a specific challenge, start here:
 - check whether one design choice creates a new barrier elsewhere
 - adapt pacing, participation format, and materials together rather than one at a time
 
-### Example
 
-A participant may:
-- have low literacy
-- not be fluent in the training language
-- lack confidence to speak
+??? note "Click to read more..."
+    ### When this matters
 
-Use:
-- visual instructions
-- small-group discussion in shared language
-- structured turn-taking
-- guided practice instead of open-ended independent work
+    - participants experience multiple constraints at the same time
+    - a solution that works for one constraint does not work when combined with others
+    - barriers reinforce each other rather than appearing separately
 
-### Common mistake
-Designing for a single “average” participant and assuming that one solution will work for everyone
+    ### What this affects
+
+    - who can participate fully
+    - who benefits from the training
+    - whether learning translates into action
+    - whether training feels accessible, relevant, and usable
+
+    ### Example
+
+    A participant may:
+
+    - have low literacy
+    - not be fluent in the training language
+    - lack confidence to speak
+
+    Use:
+
+    - visual instructions
+    - small-group discussion in shared language
+    - structured turn-taking
+    - guided practice instead of open-ended independent work
+
+    ### Common mistake
+    Designing for a single “average” participant and assuming that one solution will work for everyone
 
 ---
 
 ## Designing for low connectivity
 
-### When this matters
-- participants have unreliable or no internet access
-- connectivity is too weak to support live tools or downloads
-- training takes place in rural or infrastructure-constrained settings
-
-### What this affects
-- access to materials
-- participation
-- continuity
-- ability to practise during and after the session
 
 ### Practical strategies
 - design activities that work fully offline
@@ -126,24 +123,25 @@ Designing for a single “average” participant and assuming that one solution 
 - simplify tasks so they do not depend on live platforms
 - test activities in low-connectivity conditions before delivery
 
-### Common mistake
-Relying on live tools, live demonstrations, or cloud-based materials that fail in real conditions
+??? note "Click to read more..."
+
+    ### When this matters
+    - participants have unreliable or no internet access
+    - connectivity is too weak to support live tools or downloads
+    - training takes place in rural or infrastructure-constrained settings
+
+    ### What this affects
+    - access to materials
+    - participation
+    - continuity
+    - ability to practise during and after the session
+
+    ### Common mistake
+    Relying on live tools, live demonstrations, or cloud-based materials that fail in real conditions
 
 ---
 
 ## Designing without digital tools
-
-### When this matters
-- digital tools are not accessible or appropriate
-- participants do not have reliable access to devices
-- technology would distract from the main learning task
-- the training outcome can be achieved without digital tools
-
-### What this affects
-- accessibility
-- confidence
-- real-world usability
-- whether participants can actually use what they learned afterwards
 
 ### Practical strategies
 - design full workflows using paper, discussion, and physical materials
@@ -156,24 +154,26 @@ Relying on live tools, live demonstrations, or cloud-based materials that fail i
 - ensure participants can complete the full task without any device
 - introduce digital tools only if they clearly improve the outcome
 
-### Common mistake
-Adding digital tools because they are expected, rather than because they are useful
+??? note "Click to read more..."
+
+    ### When this matters
+    - digital tools are not accessible or appropriate
+    - participants do not have reliable access to devices
+    - technology would distract from the main learning task
+    - the training outcome can be achieved without digital tools
+
+    ### What this affects
+    - accessibility
+    - confidence
+    - real-world usability
+    - whether participants can actually use what they learned afterwards
+
+    ### Common mistake
+    Adding digital tools because they are expected, rather than because they are useful
 
 ---
 
 ## Designing for limited digital skills
-
-### When this matters
-- digital tools are needed but unfamiliar
-- participants are new to digital workflows
-- confidence with technology varies across the group
-- digital tasks create anxiety or dependency on facilitators
-
-### What this affects
-- participation
-- independence
-- confidence
-- ability to apply learning after training
 
 ### Practical strategies
 - introduce one tool at a time
@@ -187,23 +187,26 @@ Adding digital tools because they are expected, rather than because they are use
 - allow time for troubleshooting without making participants feel behind
 - distinguish between learning the task and learning the tool
 
-### Common mistake
-Teaching features instead of tasks, or expecting participants to learn several new tools at once
+??? note "Click to read more..."
+
+    ### When this matters
+    - digital tools are needed but unfamiliar
+    - participants are new to digital workflows
+    - confidence with technology varies across the group
+    - digital tasks create anxiety or dependency on facilitators
+
+    ### What this affects
+    - participation
+    - independence
+    - confidence
+    - ability to apply learning after training
+
+    ### Common mistake
+    Teaching features instead of tasks, or expecting participants to learn several new tools at once
 
 ---
 
 ## Designing for mixed literacy
-
-### When this matters
-- participants have varying literacy levels
-- reading-heavy materials exclude some people
-- confidence drops when written instructions dominate
-
-### What this affects
-- understanding
-- confidence
-- independence
-- participation in activities
 
 ### Practical strategies
 - use visuals instead of dense text
@@ -216,24 +219,25 @@ Teaching features instead of tasks, or expecting participants to learn several n
 - combine verbal explanation with hands-on practice
 - reduce unnecessary jargon and technical language
 
-### Common mistake
-Relying on written explanations and assuming that silence means understanding
+??? note "Click to read more..."
+
+    ### When this matters
+    - participants have varying literacy levels
+    - reading-heavy materials exclude some people
+    - confidence drops when written instructions dominate
+
+    ### What this affects
+    - understanding
+    - confidence
+    - independence
+    - participation in activities
+
+    ### Common mistake
+    Relying on written explanations and assuming that silence means understanding
 
 ---
 
 ## Designing for time constraints
-
-### When this matters
-- participants have limited time
-- participants balance training with work, caregiving, or other responsibilities
-- attendance may be irregular
-- there is not enough time to cover everything you would like to include
-
-### What this affects
-- retention
-- completion
-- continuity between sessions
-- whether participants leave with something usable
 
 ### Practical strategies
 - keep sessions short and modular
@@ -246,24 +250,27 @@ Relying on written explanations and assuming that silence means understanding
 - build catch-up opportunities into the design
 - focus on minimum viable learning rather than perfect completeness
 
-### Common mistake
-Trying to cover too much content and leaving participants with fragmented understanding
+??? note "Click to read more..."
+
+    ### When this matters
+    - participants have limited time
+    - participants balance training with work, caregiving, or other responsibilities
+    - attendance may be irregular
+    - there is not enough time to cover everything you would like to include
+
+    ### What this affects
+    - retention
+    - completion
+    - continuity between sessions
+    - whether participants leave with something usable
+
+
+    ### Common mistake
+    Trying to cover too much content and leaving participants with fragmented understanding
 
 ---
 
 ## Designing for inclusion and participation
-
-### When this matters
-- participation is uneven
-- some voices dominate while others stay quiet
-- power dynamics affect who speaks, contributes, or is heard
-- gender, age, status, confidence, or language shape participation
-
-### What this affects
-- engagement
-- learning
-- whose knowledge is surfaced
-- who feels the training is for them
 
 ### Practical strategies
 - use small groups
@@ -276,24 +283,26 @@ Trying to cover too much content and leaving participants with fragmented unders
 - use prompts that invite experience, not just “correct” answers
 - make it clear that different kinds of knowledge are valuable
 
-### Common mistake
-Assuming equal participation will happen naturally without designing for it
+??? note "Click to read more..."
+
+    ### When this matters
+    - participation is uneven
+    - some voices dominate while others stay quiet
+    - power dynamics affect who speaks, contributes, or is heard
+    - gender, age, status, confidence, or language shape participation
+
+    ### What this affects
+    - engagement
+    - learning
+    - whose knowledge is surfaced
+    - who feels the training is for them
+
+    ### Common mistake
+    Assuming equal participation will happen naturally without designing for it
 
 ---
 
 ## Designing for language barriers
-
-### When this matters
-- participants are not fluent in the training language
-- technical terms do not translate easily
-- multiple languages are present in the group
-- language barriers affect understanding, confidence, or participation
-
-### What this affects
-- understanding
-- participation
-- confidence
-- ability to apply learning correctly
 
 ### Practical strategies
 - use local languages where possible
@@ -306,23 +315,26 @@ Assuming equal participation will happen naturally without designing for it
 - create glossaries for essential terms where useful
 - avoid assuming that translation alone solves comprehension
 
-### Common mistake
-Assuming that providing translated materials is enough for full understanding and participation
+??? note "Click to read more..."
+
+    ### When this matters
+    - participants are not fluent in the training language
+    - technical terms do not translate easily
+    - multiple languages are present in the group
+    - language barriers affect understanding, confidence, or participation
+
+    ### What this affects
+    - understanding
+    - participation
+    - confidence
+    - ability to apply learning correctly
+
+    ### Common mistake
+    Assuming that providing translated materials is enough for full understanding and participation
 
 ---
 
 ## Designing for real-world application
-
-### When this matters
-- training must lead to action
-- participants need to use what they learn in their own context
-- the value of the training depends on whether people can apply it afterwards
-
-### What this affects
-- impact
-- retention
-- motivation
-- whether learning is seen as worthwhile
 
 ### Practical strategies
 - use real scenarios, problems, or cases from participants’ context
@@ -335,24 +347,25 @@ Assuming that providing translated materials is enough for full understanding an
 - focus on transfer: how this idea moves from the training room into practice
 - follow up on what participants tried, not only what they learned
 
-### Common mistake
-Keeping training abstract or assuming that participants will work out application on their own later
+??? note "Click to read more..."
+
+    ### When this matters
+    - training must lead to action
+    - participants need to use what they learn in their own context
+    - the value of the training depends on whether people can apply it afterwards
+
+    ### What this affects
+    - impact
+    - retention
+    - motivation
+    - whether learning is seen as worthwhile
+
+    ### Common mistake
+    Keeping training abstract or assuming that participants will work out application on their own later
 
 ---
 
 ## Designing with intermediaries (train-the-trainer)
-
-### When this matters
-- participants will train others
-- impact depends on knowledge being passed on
-- your primary learners are facilitators, peer educators, community workers, or local leaders
-- the original training will not reach everyone directly
-
-### What this affects
-- scale
-- sustainability
-- consistency
-- whether the approach can travel beyond one event
 
 ### Practical strategies
 - include practice teaching during the training
@@ -364,24 +377,26 @@ Keeping training abstract or assuming that participants will work out applicatio
 - provide short scripts, prompts, or step-by-step activity notes where useful
 - focus on helping participants teach with confidence, not just understand content
 
-### Common mistake
-Assuming participants can teach others effectively just because they understood the content themselves
+??? note "Click to read more..."
+
+    ### When this matters
+    - participants will train others
+    - impact depends on knowledge being passed on
+    - your primary learners are facilitators, peer educators, community workers, or local leaders
+    - the original training will not reach everyone directly
+
+    ### What this affects
+    - scale
+    - sustainability
+    - consistency
+    - whether the approach can travel beyond one event
+
+    ### Common mistake
+    Assuming participants can teach others effectively just because they understood the content themselves
 
 ---
 
 ## Designing for reuse and scale
-
-### When this matters
-- training will be reused
-- materials need to travel across contexts
-- others may adapt the training later
-- the value of the work depends partly on wider uptake
-
-### What this affects
-- scalability
-- quality of reuse
-- consistency
-- long-term usefulness
 
 ### Practical strategies
 - create modular materials that can be lifted and reused in parts
@@ -393,24 +408,26 @@ Assuming participants can teach others effectively just because they understood 
 - keep formats simple enough to be reused in low-resource settings
 - document assumptions that shaped the original design
 
-### Common mistake
-Designing for one context only and assuming others will know how to adapt the materials later
+??? note "Click to read more..."
+
+    ### When this matters
+    - training will be reused
+    - materials need to travel across contexts
+    - others may adapt the training later
+    - the value of the work depends partly on wider uptake
+
+    ### What this affects
+    - scalability
+    - quality of reuse
+    - consistency
+    - long-term usefulness
+
+    ### Common mistake
+    Designing for one context only and assuming others will know how to adapt the materials later
 
 ---
 
 ## Designing for imposter syndrome
-
-### When this matters
-- participants lack confidence
-- participants feel they are not qualified to be there
-- participants hesitate to try, ask questions, or take up space
-- people compare themselves negatively to others in the group
-
-### What this affects
-- participation
-- confidence
-- willingness to apply learning
-- how much people benefit from the training
 
 ### Practical strategies
 - normalise learning, uncertainty, and not knowing
@@ -423,30 +440,32 @@ Designing for one context only and assuming others will know how to adapt the ma
 - avoid overloading people with expert language at the start
 - recognise progress explicitly, especially early on
 
-### Facilitator practices
-- avoid acting as though competence should already be in place
-- reinforce that the training is for learning, not for proving ability
-- notice when silence may be about confidence rather than understanding
-- respond to uncertainty with encouragement and clarity, not speed
+??? note "Click to read more..."
 
-### Common mistake
-Assuming silence means understanding, confidence, or readiness
+    ### When this matters
+    - participants lack confidence
+    - participants feel they are not qualified to be there
+    - participants hesitate to try, ask questions, or take up space
+    - people compare themselves negatively to others in the group
+
+    ### What this affects
+    - participation
+    - confidence
+    - willingness to apply learning
+    - how much people benefit from the training
+
+    ### Facilitator practices
+    - avoid acting as though competence should already be in place
+    - reinforce that the training is for learning, not for proving ability
+    - notice when silence may be about confidence rather than understanding
+    - respond to uncertainty with encouragement and clarity, not speed
+
+    ### Common mistake
+    Assuming silence means understanding, confidence, or readiness
 
 ---
 
 ## Designing for low decision-making power-agency
-
-### When this matters
-- participants cannot make decisions directly
-- participants work within institutional, social, or political constraints
-- learners are expected to act, but do not control resources, approval, or implementation
-- participants can influence outcomes only indirectly
-
-### What this affects
-- application
-- motivation
-- sustainability
-- whether participants feel the training is realistic
 
 ### Practical strategies
 - focus on small actions participants can actually take
@@ -459,30 +478,32 @@ Assuming silence means understanding, confidence, or readiness
 - recognise advocacy, persuasion, and coordination as valid training outcomes
 - avoid framing success only as direct implementation
 
-### Quick diagnostic
-You may have an agency problem if:
-- participants say “this is useful, but I cannot decide that”
-- learners understand the content but do not see how they can act on it
-- proposed actions depend on people who are not in the room
+??? note "Click to read more..."
 
-### Common mistake
-Assuming full autonomy and designing as if participants can simply decide to act
+    ### When this matters
+    - participants cannot make decisions directly
+    - participants work within institutional, social, or political constraints
+    - learners are expected to act, but do not control resources, approval, or implementation
+    - participants can influence outcomes only indirectly
+
+    ### What this affects
+    - application
+    - motivation
+    - sustainability
+    - whether participants feel the training is realistic
+
+    ### Quick diagnostic
+    You may have an agency problem if:
+    - participants say “this is useful, but I cannot decide that”
+    - learners understand the content but do not see how they can act on it
+    - proposed actions depend on people who are not in the room
+
+    ### Common mistake
+    Assuming full autonomy and designing as if participants can simply decide to act
 
 ---
 
 ## Designing for limited confidence to speak up
-
-### When this matters
-- participants are silent
-- some people speak while others hold back
-- participants have ideas but do not feel comfortable voicing them
-- speaking in the group carries social risk
-
-### What this affects
-- engagement
-- peer learning
-- whose knowledge becomes visible
-- whether quieter participants shape the training
 
 ### Practical strategies
 - structure participation rather than relying on open discussion
@@ -494,29 +515,32 @@ Assuming full autonomy and designing as if participants can simply decide to act
 - invite contributions in rounds so everyone has a defined chance to speak
 - validate partial contributions instead of rewarding only polished responses
 
-### Facilitator practices
-- do not equate speed with confidence or competence
-- avoid letting the same people answer first every time
-- create space without forcing disclosure or performance
-- notice whether silence is about confidence, power, language, or trust
+??? note "Click to read more..."
 
-### Common mistake
-Relying on open discussion and then interpreting silence as lack of interest or lack of knowledge
+    ### When this matters
+    - participants are silent
+    - some people speak while others hold back
+    - participants have ideas but do not feel comfortable voicing them
+    - speaking in the group carries social risk
+
+    ### What this affects
+    - engagement
+    - peer learning
+    - whose knowledge becomes visible
+    - whether quieter participants shape the training
+
+    ### Facilitator practices
+    - do not equate speed with confidence or competence
+    - avoid letting the same people answer first every time
+    - create space without forcing disclosure or performance
+    - notice whether silence is about confidence, power, language, or trust
+
+    ### Common mistake
+    Relying on open discussion and then interpreting silence as lack of interest or lack of knowledge
 
 ---
 
 ## Designing for lack of trust in the system
-
-### When this matters
-- participants are sceptical of institutions, data, or external interventions
-- previous programmes or actors have failed or caused harm
-- participants question whether training will lead to real change
-
-### What this affects
-- willingness to engage
-- openness in discussion
-- uptake of tools or approaches
-- long-term application
 
 ### Practical strategies
 - start with participants’ lived experiences before introducing new concepts
@@ -530,29 +554,42 @@ Relying on open discussion and then interpreting silence as lack of interest or 
 - make processes visible, including how data is collected, used, and shared
 - allow participants to question, challenge, and adapt the approach
 
-### Facilitator practices
-- acknowledge uncertainty and limitations openly
-- avoid positioning yourself as the sole expert
-- listen actively and reflect concerns back
-- respond to scepticism with curiosity, not defensiveness
-- build trust through consistency between what you say and what you do
+??? note "Click to read more..."
 
-### Quick diagnostic
-You may have a trust problem if:
-- participants are quiet but not disengaged
-- participants say “this won’t work here”
-- participants avoid using tools after training
-- questions focus more on risks than possibilities
+    ### When this matters
+    - participants are sceptical of institutions, data, or external interventions
+    - previous programmes or actors have failed or caused harm
+    - participants question whether training will lead to real change
 
-### Example
-Instead of:
-Starting with external frameworks or tools
+    ### What this affects
+    - willingness to engage
+    - openness in discussion
+    - uptake of tools or approaches
+    - long-term application
 
-Use:
-- begin with “What has worked here before?”
-- map local practices and knowledge
-- introduce new approaches as extensions, not replacements
-- test one small, visible application during training
+    ### Facilitator practices
+    - acknowledge uncertainty and limitations openly
+    - avoid positioning yourself as the sole expert
+    - listen actively and reflect concerns back
+    - respond to scepticism with curiosity, not defensiveness
+    - build trust through consistency between what you say and what you do
 
-### Common mistake
-Trying to build trust through authority or promises instead of relevance, transparency, and consistency
+    ### Quick diagnostic
+    You may have a trust problem if:
+    - participants are quiet but not disengaged
+    - participants say “this won’t work here”
+    - participants avoid using tools after training
+    - questions focus more on risks than possibilities
+
+    ### Example
+    Instead of:
+    Starting with external frameworks or tools
+
+    Use:
+    - begin with “What has worked here before?”
+    - map local practices and knowledge
+    - introduce new approaches as extensions, not replacements
+    - test one small, visible application during training
+
+    ### Common mistake
+    Trying to build trust through authority or promises instead of relevance, transparency, and consistency
