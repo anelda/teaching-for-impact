@@ -5,6 +5,7 @@
 A set of practical strategies you can apply when designing or running training in real-world, resource-constrained contexts.
 
 Use this when:
+
 - you are adapting your training to your learners and context
 - something is not working in your current design
 - you need practical options to try
@@ -13,6 +14,7 @@ This is not a checklist to complete.
 It is a set of patterns you can draw on.
 
 These strategies build on:
+
 - Part 1: Designing for real-world impact
 - Part 2: Designing for openness and reuse
 
