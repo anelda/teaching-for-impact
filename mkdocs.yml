@@ -5,9 +5,9 @@ use_directory_urls: true
 
 theme:
   name: material
-  logo: 
-  favicon: 
-  features:
+  logo: "assets/images/logo_white_transparent_v2.png"
+  favicon: "assets/images/favicon.png"
+  features: 
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.tracking

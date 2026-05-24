@@ -1,164 +1,844 @@
+/* ==========================================================================
+   Teaching for Impact — FeME Theme
+   Material for MkDocs extra.css
+
+   Design decisions:
+   - Header, top navigation and footer use FeME navy for strong contrast.
+   - Coral is reserved for primary actions, links, active states and emphasis.
+   - Page backgrounds remain white.
+   - Cream is used as a secondary surface colour for panels, tabs and soft fills.
+   - Admonitions and their icons are explicitly overridden to prevent Material's
+     default bright semantic colours from leaking through.
+   ========================================================================== */
+
+
+/* ==========================================================================
+   FeME brand tokens
+   ========================================================================== */
+
+:root {
+  /* Core FeME palette */
+  --feme-coral: #DE6956;
+  --feme-coral-light: #E58A7B;
+  --feme-coral-dark: #C95B49;
+
+  --feme-cream: #EBD5C6;
+  --feme-green: #94C391;
+  --feme-teal: #537E81;
+  --feme-yellow: #F4CA53;
+  --feme-navy: #181F38;
+  --feme-text: #333333;
+  --feme-light-grey: #C3C5C0;
+
+  /* Functional colours */
+  --feme-page-bg: #FFFFFF;
+  --feme-surface: #FFFFFF;
+  --feme-surface-alt: #F8F3EF;
+  --feme-border: rgba(24, 31, 56, 0.14);
+  --feme-border-soft: rgba(24, 31, 56, 0.08);
+
+  --feme-shadow-sm: 0 2px 8px rgba(24, 31, 56, 0.06);
+  --feme-shadow-md: 0 8px 24px rgba(24, 31, 56, 0.10);
+
+  --feme-radius-sm: 4px;
+  --feme-radius-md: 8px;
+  --feme-radius-lg: 12px;
+
+  /* Production-safe font stacks.
+     Brand fonts: Space Grotesque for headings; Basier Circle for body.
+     These stacks use local fonts if installed, then fall back safely. */
+  --feme-font-heading: "Space Grotesque", "Aptos Display", "Segoe UI", Inter, ui-sans-serif, system-ui, sans-serif;
+  --feme-font-body: "Basier Circle", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+
+/* ==========================================================================
+   Material for MkDocs variables
+   ========================================================================== */
+
 :root > * {
+  --md-primary-fg-color: var(--feme-navy);
+  --md-primary-fg-color--light: #253057;
+  --md-primary-fg-color--dark: #111629;
 
-html, body {
-  min-height: 100%;
+  --md-accent-fg-color: var(--feme-coral);
+  --md-accent-fg-color--transparent: rgba(222, 105, 86, 0.14);
+
+  --md-default-bg-color: var(--feme-page-bg);
+  --md-default-fg-color: var(--feme-text);
+  --md-default-fg-color--light: rgba(51, 51, 51, 0.72);
+  --md-default-fg-color--lighter: rgba(51, 51, 51, 0.52);
+  --md-default-fg-color--lightest: rgba(51, 51, 51, 0.26);
+
+  --md-typeset-a-color: var(--feme-coral);
+
+  --md-code-bg-color: rgba(235, 213, 198, 0.42);
+  --md-code-fg-color: var(--feme-navy);
+
+  --md-footer-bg-color: var(--feme-navy);
+  --md-footer-bg-color--dark: var(--feme-navy);
 }
 
-  /* =========================
-     PRIMARY BRAND COLOURS
-     ========================= */
 
-  --md-primary-fg-color:        #004b6c;  /* dark teal */
-  --md-primary-fg-color--light: #1d647d;  /* primary teal */
-  --md-primary-fg-color--dark:  #00354d;
+/* ==========================================================================
+   Base
+   ========================================================================== */
 
-  /* =========================
-     ACCENT COLOUR (interactive elements)
-     ========================= */
-
-  --md-accent-fg-color:         #d46852;  /* coral */
-  --md-accent-fg-color--transparent: rgba(212, 104, 82, 0.1);
-
-  /* =========================
-     BACKGROUND & SURFACE
-     ========================= */
-
-  --md-default-bg-color:        #ffffff;
-  --md-default-fg-color:        #000000;
-
-  --md-default-fg-color--light: #507d8e;  /* teal-grey for secondary text */
-  --md-default-fg-color--lighter: #9cb5cb;
-
-  /* =========================
-     LINKS
-     ========================= */
-
-  --md-typeset-a-color:         #1d647d;  /* primary teal */
+html,
+body,
+.md-main {
+  background: var(--feme-page-bg);
 }
 
-/* =========================
-   LINK STATES
-   ========================= */
+body,
+input,
+button,
+textarea,
+select {
+  font-family: var(--feme-font-body);
+}
+
+body {
+  color: var(--feme-text);
+}
+
+.md-typeset {
+  color: var(--feme-text);
+  line-height: 1.7;
+}
+
+::selection {
+  background: var(--feme-coral);
+  color: #FFFFFF;
+}
+
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.md-header__title,
+.md-tabs__link,
+.md-nav__title,
+.md-typeset .tabbed-labels > label,
+.md-typeset .md-button {
+  font-family: var(--feme-font-heading);
+  letter-spacing: -0.01em;
+}
+
+.md-typeset h1 {
+  color: var(--feme-navy);
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+}
+
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  color: var(--feme-navy);
+  font-weight: 650;
+}
+
+.md-typeset hr {
+  border-bottom: 1px solid var(--feme-border-soft);
+}
+
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
 
 .md-typeset a {
-  color: #1d647d;
+  color: var(--feme-coral);
   text-decoration: none;
-  border-bottom: 1px solid rgba(29, 100, 125, 0.3);
+  border-bottom: 1px solid rgba(222, 105, 86, 0.32);
+  transition: color 0.18s ease, border-color 0.18s ease, background-color 0.18s ease;
 }
 
 .md-typeset a:hover {
-  color: #d46852;
-  border-bottom: 1px solid #d46852;
+  color: var(--feme-navy);
+  border-bottom-color: var(--feme-navy);
 }
 
-/* =========================
-   NAVIGATION
-   ========================= */
-
-.md-nav__link--active {
-  color: #d46852;
-  font-weight: 600;
+.md-nav__link,
+.md-tabs__link,
+.md-search-result__link,
+.md-typeset .md-content__button {
+  transition: color 0.18s ease, background-color 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
 }
 
-.md-nav__link:hover {
-  color: #1d647d;
-}
 
-/* =========================
-   HEADER / TABS
-   ========================= */
+/* ==========================================================================
+   Header + navigation + footer
+   ========================================================================== */
+
+/* Header */
 
 .md-header {
-  background-color: #004b6c;
+    background:var(--feme-coral);
+    color:#333333;
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
 }
+
+
+/* Header text/icons */
+
+.md-header__title,
+.md-header__button,
+.md-header__source,
+.md-header__topic,
+.md-header__ellipsis {
+
+    color:#333333 !important;
+}
+
+
+/* ==========================================================================
+   Tabs/navigation
+   ========================================================================== */
 
 .md-tabs {
-  background-color: #1d647d;
+
+    background:var(--feme-coral);
+    padding-top:6px;
 }
 
-/* =========================
-   BUTTONS
-   ========================= */
 
-.md-button {
-  background-color: #1d647d;
-  color: #ffffff;
-  border-radius: 4px;
+/* Default tabs */
+
+.md-tabs__link {
+
+    color:#333333 !important;
+    opacity:1 !important;
+
+    font-weight:600;
+
+    padding:.75rem 1rem;
+
+    margin:0 .15rem;
+
+    border-radius:6px 6px 0 0;
+
+    transition:
+        background .2s ease,
+        color .2s ease,
+        transform .2s ease;
 }
 
-.md-button:hover {
-  background-color: #d46852;
-  color: #ffffff;
+
+/* Hover */
+
+.md-tabs__link:hover {
+
+    background:rgba(255,255,255,.25);
+
+    color:#181F38 !important;
+
+    transform:translateY(-1px);
 }
 
-/* =========================
-   CODE BLOCKS
-   ========================= */
 
-.md-typeset code {
-  background-color: #f4f8fb;
-  color: #004b6c;
+/* Active/current tab — supports Material's actual current-page selector */
+
+.md-tabs__item--active .md-tabs__link,
+.md-tabs__link--active,
+.md-tabs__link[aria-current="page"] {
+    background:var(--feme-coral-light) !important;
+    color:#181F38 !important;
+    font-weight:700 !important;
+    border-radius:6px 6px 0 0;
+    box-shadow:0 -2px 6px rgba(0,0,0,.08);
 }
 
-.md-typeset pre {
-  background-color: #f4f8fb;
-  border-left: 4px solid #1d647d;
+/* Active tab hover */
+
+.md-tabs__item--active .md-tabs__link:hover,
+.md-tabs__link--active:hover,
+.md-tabs__link[aria-current="page"]:hover {
+    background:#FFFFFF !important;
+    color:#181F38 !important;
 }
 
-/* =========================
-   CALLOUTS / ADMONITIONS
-   ========================= */
+
+/* Active hover */
+
+.md-tabs__link--active:hover {
+
+    background:#FFFFFF !important;
+}
+/* Search box */
+
+.md-search__form {
+
+    background:rgba(255,255,255,.35);
+    border:1px solid rgba(51,51,51,.1);
+}
+
+.md-search__input,
+.md-search__icon {
+
+    color:#333333;
+}
+
+.md-search__input::placeholder {
+
+    color:rgba(51,51,51,.65);
+}
+
+
+/* Sidebar interaction */
+
+.md-nav__link:hover {
+
+    color:#DE6956;
+}
+
+.md-nav__link--active {
+
+    color:#DE6956;
+    font-weight:600;
+}
+
+
+/* Footer */
+
+.md-footer,
+.md-footer-meta {
+
+    background:#DE6956;
+}
+
+.md-footer,
+.md-footer a,
+.md-footer-meta,
+.md-footer-meta a {
+
+    color:#333333 !important;
+}
+
+.md-footer a:hover {
+
+    color:#181F38 !important;
+}
+
+
+/* ==========================================================================
+   Announcement bar
+   ========================================================================== */
+
+.md-banner {
+  background: var(--feme-coral);
+  color: #FFFFFF;
+}
+
+.md-banner a {
+  color: #FFFFFF;
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+
+/* ==========================================================================
+   Side navigation and table of contents
+   ========================================================================== */
+
+.md-sidebar__scrollwrap,
+.md-sidebar__inner {
+  scrollbar-width: thin;
+}
+
+.md-nav__title {
+  color: var(--feme-navy);
+}
+
+.md-nav__link {
+  color: var(--feme-text);
+}
+
+.md-nav__link:hover,
+.md-nav__link--active,
+.md-nav__item .md-nav__link--active {
+  color: var(--feme-coral);
+}
+
+.md-nav__link--active {
+  font-weight: 650;
+}
+
+.md-nav--secondary .md-nav__title {
+  color: var(--feme-navy);
+}
+
+.md-nav--secondary .md-nav__link:hover,
+.md-nav--secondary .md-nav__link--active {
+  color: var(--feme-coral);
+}
+
+.md-typeset .headerlink {
+  color: rgba(222, 105, 86, 0.34);
+}
+
+.md-typeset .headerlink:hover {
+  color: var(--feme-coral);
+}
+
+
+/* ==========================================================================
+   Main content
+   ========================================================================== */
+
+.md-content__inner {
+  padding-bottom: 3rem;
+}
+
+.md-typeset .md-content__button {
+  color: rgba(51, 51, 51, 0.58);
+}
+
+.md-typeset .md-content__button:hover {
+  color: var(--feme-coral);
+}
+
+
+/* ==========================================================================
+   Buttons
+   ========================================================================== */
+
+.md-button,
+.download-doc-btn,
+.md-typeset .md-button {
+  background: var(--feme-coral);
+  color: #FFFFFF !important;
+  border: 1px solid var(--feme-coral);
+  border-radius: var(--feme-radius-sm);
+  font-weight: 650;
+  box-shadow: none;
+}
+
+.md-button:hover,
+.download-doc-btn:hover,
+.md-typeset .md-button:hover {
+  background: var(--feme-navy);
+  border-color: var(--feme-navy);
+  color: #FFFFFF !important;
+}
+
+.md-button--primary {
+  background: var(--feme-coral);
+  border-color: var(--feme-coral);
+  color: #FFFFFF !important;
+}
+
+.md-button--primary:hover {
+  background: var(--feme-navy);
+  border-color: var(--feme-navy);
+}
+
+.download-btn-wrapper {
+  margin: 1rem 0 1.5rem;
+}
+
+.download-doc-btn {
+  padding: 0.6rem 1.2rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+
+/* ==========================================================================
+   Cards and grids
+   ========================================================================== */
+
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li,
+.md-typeset .grid > .card,
+.md-typeset .card {
+  background: var(--feme-surface);
+  border: 1px solid var(--feme-border-soft);
+  border-top: 4px solid var(--feme-coral);
+  border-radius: var(--feme-radius-md);
+  box-shadow: var(--feme-shadow-sm);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover,
+.md-typeset .grid > .card:hover,
+.md-typeset .card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--feme-shadow-md);
+  border-color: rgba(222, 105, 86, 0.36);
+}
+
+.md-typeset .grid.cards h2,
+.md-typeset .grid.cards h3,
+.md-typeset .card h2,
+.md-typeset .card h3 {
+  color: var(--feme-navy);
+}
+
+
+/* ==========================================================================
+   Content tabs
+   ========================================================================== */
+
+.md-typeset .tabbed-set {
+  border: 1px solid var(--feme-border-soft);
+  border-radius: var(--feme-radius-md);
+  overflow: hidden;
+  background: var(--feme-surface);
+  box-shadow: var(--feme-shadow-sm);
+}
+
+.md-typeset .tabbed-labels {
+  background: var(--feme-cream);
+  border-bottom: 1px solid var(--feme-border-soft);
+  padding: 0.25rem 0.35rem 0;
+}
+
+.md-typeset .tabbed-labels > label {
+  color: var(--feme-text);
+  font-weight: 650;
+  border-radius: var(--feme-radius-sm) var(--feme-radius-sm) 0 0;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+}
+
+.md-typeset .tabbed-labels > label:hover {
+  color: var(--feme-coral);
+}
+
+.md-typeset .tabbed-set > input:checked + label {
+  color: var(--feme-coral);
+  background: #FFFFFF;
+}
+
+.md-typeset .tabbed-content {
+  background: #FFFFFF;
+}
+
+
+/* ==========================================================================
+   FeME Admonitions
+   Completely replaces Material semantic colours
+   ========================================================================== */
 
 .md-typeset .admonition,
 .md-typeset details {
-  border-left: 4px solid #1d647d;
+
+    background:#ffffff !important;
+    border:none !important;
+    border-left:6px solid;
+    border-radius:6px;
+    box-shadow:0 2px 8px rgba(0,0,0,.05);
 }
 
-.md-typeset .admonition-title {
-  background-color: rgba(29, 100, 125, 0.1);
-  color: #004b6c;
+.md-typeset .admonition-title,
+.md-typeset summary {
+
+    border-bottom:none !important;
+    font-weight:600;
+    color:#181F38 !important;
 }
 
-/* =========================
+
+/* ==========================================================================
+   NOTE / INFO
+   ========================================================================== */
+
+.md-typeset .admonition.note,
+.md-typeset .admonition.info,
+.md-typeset details.note,
+.md-typeset details.info {
+
+    border-left-color:#537E81 !important;
+}
+
+.md-typeset .note > .admonition-title,
+.md-typeset .info > .admonition-title {
+
+    background:#EAF2F2 !important;
+}
+
+.md-typeset .note > .admonition-title::before,
+.md-typeset .info > .admonition-title::before {
+
+    background-color:#537E81 !important;
+}
+
+
+/* ==========================================================================
+   TIP / SUCCESS
+   ========================================================================== */
+
+.md-typeset .admonition.tip,
+.md-typeset .admonition.success,
+.md-typeset details.tip,
+.md-typeset details.success {
+
+    border-left-color:#94C391 !important;
+}
+
+.md-typeset .tip > .admonition-title,
+.md-typeset .success > .admonition-title {
+
+    background:#EEF7ED !important;
+}
+
+.md-typeset .tip > .admonition-title::before,
+.md-typeset .success > .admonition-title::before {
+
+    background-color:#94C391 !important;
+}
+
+
+/* ==========================================================================
+   WARNING
+   ========================================================================== */
+
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+
+    border-left-color:#F4CA53 !important;
+}
+
+.md-typeset .warning > .admonition-title {
+
+    background:#FFF5D5 !important;
+}
+
+.md-typeset .warning > .admonition-title::before {
+
+    background-color:#F4CA53 !important;
+}
+
+
+/* ==========================================================================
+   DANGER / ERROR
+   ========================================================================== */
+
+.md-typeset .admonition.danger,
+.md-typeset .admonition.failure,
+.md-typeset .admonition.error,
+.md-typeset details.danger,
+.md-typeset details.failure,
+.md-typeset details.error {
+
+    border-left-color:#DE6956 !important;
+}
+
+.md-typeset .danger > .admonition-title,
+.md-typeset .failure > .admonition-title,
+.md-typeset .error > .admonition-title {
+
+    background:#FCEAE6 !important;
+}
+
+.md-typeset .danger > .admonition-title::before,
+.md-typeset .failure > .admonition-title::before,
+.md-typeset .error > .admonition-title::before {
+
+    background-color:#DE6956 !important;
+}
+
+
+/* ==========================================================================
+   QUESTION / HELP
+   ========================================================================== */
+
+.md-typeset .question > .admonition-title,
+.md-typeset .help > .admonition-title,
+.md-typeset details.question > summary,
+.md-typeset details.help > summary {
+    background:#EBD5C6 !important;
+}
+
+.md-typeset .question > .admonition-title::before,
+.md-typeset .help > .admonition-title::before,
+.md-typeset details.question > summary::before,
+.md-typeset details.help > summary::before {
+    background-color:#C8AFA1 !important;
+}
+
+/* ==========================================================================
+   EXAMPLE / ABSTRACT
+   ========================================================================== */
+
+.md-typeset .admonition.example,
+.md-typeset .admonition.abstract,
+.md-typeset details.example,
+.md-typeset details.abstract {
+
+    border-left-color:#C3C5C0 !important;
+}
+
+.md-typeset .example > .admonition-title,
+.md-typeset .abstract > .admonition-title {
+
+    background:#F2F2F2 !important;
+}
+
+.md-typeset .example > .admonition-title::before,
+.md-typeset .abstract > .admonition-title::before {
+
+    background-color:#C3C5C0 !important;
+}
+
+
+/* ==========================================================================
    TABLES
-   ========================= */
+   ========================================================================== */
+
+.md-typeset table:not([class]) {
+
+    background:#f3f3f2;
+
+    border:2px solid #DE6956;
+
+    border-radius:6px;
+
+    overflow:hidden;
+
+    border-collapse:separate;
+
+    border-spacing:0;
+}
+
+
+/* Header row */
 
 .md-typeset table th {
-  background-color: #1d647d;
-  color: #ffffff;
+
+    background:#f3f3f2 !important;
+
+    color:#181F38;
+
+    font-weight:600;
+
+    border-bottom:2px solid #DE6956;
+
+    border-right:1px solid rgba(222,105,86,.25);
 }
+
+
+/* Remove right border from last header cell */
+
+.md-typeset table th:last-child {
+
+    border-right:none;
+}
+
+
+/* Table cells */
+
+.md-typeset table td {
+
+    border-top:1px solid rgba(222,105,86,.15);
+}
+
+
+/* Alternate rows */
 
 .md-typeset table tr:nth-child(even) {
-  background-color: #f4f8fb;
+
+    background:#fafafa;
 }
 
-/* =========================
-   FOOTER
-   ========================= */
 
-.md-footer {
-  background-color: #004b6c;
+/* Hover effect */
+
+.md-typeset table tr:hover {
+
+    background:rgba(235,213,198,.25);
+
 }
 
-.md-footer-meta {
-  background-color: #00354d;
+/* Table cells */
+
+.md-typeset table td {
+
+    border-top:1px solid rgba(222,105,86,.15);
+
+    border-right:1px solid rgba(222,105,86,.25);
 }
 
-/* =========================
-   SELECTION
-   ========================= */
 
-::selection {
-  background: #d46852;
-  color: #ffffff;
+/* Header cells */
+
+.md-typeset table th {
+
+    border-right:1px solid rgba(222,105,86,.35);
 }
 
-/* Navigation links */
+
+/* Remove border on last column */
+
+.md-typeset table td:last-child,
+.md-typeset table th:last-child {
+
+    border-right:none;
+}
+
+
+/* ==========================================================================
+   Code
+   ========================================================================== */
+
+.md-typeset code {
+  background: rgba(235, 213, 198, 0.42);
+  color: var(--feme-navy);
+  border-radius: 0.35rem;
+  padding: 0.1em 0.35em;
+}
+
+.md-typeset pre {
+  background: #FBFAF8;
+  border: 1px solid var(--feme-border-soft);
+  border-left: 4px solid var(--feme-coral);
+  border-radius: var(--feme-radius-md);
+}
+
+.highlight .filename {
+  background: var(--feme-cream);
+  color: var(--feme-navy);
+  border-bottom: 1px solid var(--feme-border-soft);
+}
+
+
+/* ==========================================================================
+   Blockquotes
+   ========================================================================== */
+
+.md-typeset blockquote {
+  border-left: 4px solid var(--feme-coral);
+  color: rgba(51, 51, 51, 0.76);
+  background: rgba(235, 213, 198, 0.28);
+  padding: 0.75rem 1rem;
+  border-radius: 0 var(--feme-radius-sm) var(--feme-radius-sm) 0;
+}
+
+
+
+/* ==========================================================================
+   Pagination links
+   ========================================================================== */
+
+.nav-previous,
+.nav-next {
+  color: var(--md-default-fg-color--light);
+}
 
 .nav-previous {
   margin-bottom: 1rem;
   font-size: 0.9rem;
-  color: var(--md-default-fg-color--light);
 }
 
 .nav-next {
@@ -168,7 +848,6 @@ html, body {
   text-align: right;
 }
 
-/* Link styling */
 .nav-previous a,
 .nav-next a {
   text-decoration: none;
@@ -176,29 +855,41 @@ html, body {
 
 .nav-previous a:hover,
 .nav-next a:hover {
-  color: var(--md-accent-fg-color);
+  color: var(--feme-coral);
 }
 
-/* =========================
-   DOWNLOAD BUTTON
-   ========================= */
 
-.download-btn-wrapper {
-  margin: 1rem 0 1.5rem;
+/* ==========================================================================
+   Responsive and accessibility
+   ========================================================================== */
+
+@media screen and (max-width: 76.2344em) {
+  .md-search__form {
+    border-radius: var(--feme-radius-md);
+  }
+
+  .md-typeset .tabbed-labels > label {
+    font-size: 0.92rem;
+  }
 }
 
-.download-doc-btn {
-  background-color: #d46852;
-  color: #ffffff !important;
-  border: none;
-  padding: 0.5rem 1.2rem;
-  font-size: 0.85rem;
-  cursor: pointer;
-  border-radius: 4px;
-  font-weight: 500;
-}
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset a,
+  .md-nav__link,
+  .md-tabs__link,
+  .md-search-result__link,
+  .md-typeset .md-content__button,
+  .md-typeset .grid.cards > ul > li,
+  .md-typeset .grid.cards > ol > li,
+  .md-typeset .grid > .card,
+  .md-typeset .card {
+    transition: none;
+  }
 
-.download-doc-btn:hover {
-  background-color: #004b6c;
-  color: #ffffff !important;
+  .md-typeset .grid.cards > ul > li:hover,
+  .md-typeset .grid.cards > ol > li:hover,
+  .md-typeset .grid > .card:hover,
+  .md-typeset .card:hover {
+    transform: none;
+  }
 }
